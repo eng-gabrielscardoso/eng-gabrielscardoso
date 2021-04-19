@@ -8,9 +8,9 @@
 
 Hello, I'm Gabriel Santos Cardoso, a man in love with technology.
 
-* I'm 19 years-old 🎂
-* I'm live in Brazil 🇧🇷
-* I'm undergraduate information systems 👨‍💻
+* 19 years-old 🎂
+* Live in Barcarena, PA, Brazil 🇧🇷
+* Universitary student of information systems 👨‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-gabrielscardoso&show_icons=true&theme=onedark)
 
