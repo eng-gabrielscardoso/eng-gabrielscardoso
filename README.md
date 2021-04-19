@@ -12,5 +12,5 @@ Hello, I'm Gabriel Santos Cardoso, a man in love with technology.
 * Live in Barcarena, PA, Brazil 🇧🇷
 * Universitary student of information systems 👨‍💻
 
-<center align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-gabrielscardoso&show_icons=true&theme=onedark)</center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-gabrielscardoso&show_icons=true&theme=onedark)
 
