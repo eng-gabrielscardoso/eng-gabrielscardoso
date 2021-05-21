@@ -6,7 +6,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/MIMKTQZXE6ABL1)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gabrielscardoso)
 
-Hello, I'm Gabriel Santos Cardoso, a man in love with technology.
+Hello, I'm Gabriel Santos Cardoso, a man in love with technology, graduated in logistics and graduating in information systems. I currently reside in Barcarena, PA, I am 19 years old and I am looking for new job opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
 
 * 19 years-old 🎂
 * Live in Barcarena, PA, Brazil 🇧🇷
