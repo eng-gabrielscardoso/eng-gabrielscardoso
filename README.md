@@ -19,7 +19,6 @@ Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently re
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-gabrielscardoso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
----
 ## Main technologies and tools
 
 ### Front-end
