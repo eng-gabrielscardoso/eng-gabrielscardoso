@@ -11,7 +11,7 @@ Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently re
 * 19 years-old 🎂
 * Gratuated in logistics management - UNIP 🚚
 * Universitary student of information systems - UFPA 👨‍💻
-* IT intern on Central Library of UFPA 💻
+* IT intern in Central Library of UFPA 💻
 
 
 <div>
