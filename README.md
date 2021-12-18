@@ -8,7 +8,7 @@
 
 Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Barcarena, PA, I am 19 years old and I am looking for new job opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
 
-* 19 years-old 🎂
+* 20 years-old 🎂
 * Gratuated in logistics management - UNIP 🚚
 * Graduate student in information systems - UFPA 👨‍💻
 * Postgraduate student in software engineering - FECAF
