@@ -8,13 +8,13 @@
   <a href="https://t.me/enggabrielscardoso" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
-Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Barcarena, PA, I am 19 years old and I am looking for new job opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
+Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Barcarena, PA, I am 20 years old and I am looking for new job opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
 
-* 20 years-old 🎂
+* Ho to reach me: eng.gabrielscardoso@gmail.com
 * Gratuated in logistics management - UNIP 🚚
 * Graduate student in information systems - UFPA 👨‍💻
 * Postgraduate student in software engineering - FECAF
-* IT intern in Central Library of UFPA 💻
+* Software Developer in Central Library of UFPA 💻
 
 <div align="center">
   <a href="https://github.com/eng-gabrielscardoso">
@@ -35,9 +35,10 @@ Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently re
   <img align="center" alt="GSC-Less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
   <img align="center" alt="GSC-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="GSC-AngularJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="GSC-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="GSC-Svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg">
   <img align="center" alt="GSC-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="GSC-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="GSC-NuxtJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
+  <img align="center" alt="GSC-Svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg">
 </div>
 
 ### Back-end
@@ -65,8 +66,8 @@ Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently re
 ### Other tools
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="GSC-SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg">
   <img align="center" alt="GSC-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="GSC-SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg">
   <img align="center" alt="GSC-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="GSC-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="GSC-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
