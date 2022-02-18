@@ -10,7 +10,7 @@
 
 Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Barcarena, PA, I am 20 years old and I am looking for new job opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
 
-* Ho to reach me: eng.gabrielscardoso@gmail.com
+* How to reach me: eng.gabrielscardoso@gmail.com
 * Gratuated in logistics management - UNIP 🚚
 * Graduate student in information systems - UFPA 👨‍💻
 * Postgraduate student in software engineering - FECAF
