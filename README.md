@@ -23,19 +23,16 @@ Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently re
 </div>
 
 <div align="center">
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eng-gabrielscardoso&theme=dracula">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eng-gabrielscardoso&theme=dracula">
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=eng-gabrielscardoso&theme=dracula">
-</div>
+</div> -->
 
 ## Main technologies and tools
 
