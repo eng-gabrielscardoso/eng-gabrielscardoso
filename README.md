@@ -71,6 +71,17 @@ Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently re
   <img align="center" alt="GSC-Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
 </div>
 
+### Blockchain
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="GSC-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="GSC-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="GSC-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="GSC-Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
+  <img align="center" alt="GSC-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="GSC-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
+
 ### Database and ORM
 <div style="display: inline_block"><br>
   <img align="center" alt="GSC-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
