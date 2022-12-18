@@ -41,7 +41,7 @@
   </a>
 </p>
 
-Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Barcarena, PA, I am 20 years old and I am looking for new job opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
+Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Barcarena, PA, I am 21 years old and I am looking for new job opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
 
 * Check my personal portfolio [HERE](https://eng-gabrielscardoso.github.io/).
 * How to reach me: eng.gabrielscardoso@gmail.com
