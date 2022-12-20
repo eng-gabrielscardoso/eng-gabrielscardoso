@@ -262,6 +262,14 @@ Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently re
   >
   <img
     align="center"
+    alt="NestJS"
+    title="NestJS"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+  >
+  <img
+    align="center"
     alt="Php"
     title="Php"
     height="30"
