@@ -47,7 +47,7 @@ Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently re
 * How to reach me: eng.gabrielscardoso@gmail.com
 * Gratuated in logistics management - UNIP 🚚
 * Postgraduated in software engineering - FECAF
-* Graduate student in information systems - UFPA 👨‍💻
+* Academic in information systems - UFPA 👨‍💻
 * Web Developer in [Dacxi Chain](https://dacxi.com/home) 💻
 
 <div align="center">
