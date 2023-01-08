@@ -1,54 +1,97 @@
+<style>
+  img {
+    text-align: center;
+  }
+
+  .main-section {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: between;
+    align-items: center;
+  }
+
+  .contacts {
+    text-align: center;
+  }
+
+  @media screen and (max-width: 896px) {
+    .main-section {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+</style>
+
 <h1 align="center">Welcome to my profile 🙋‍♂️</h1>
 
-<p align="center">
-  <a 
-    href="https://github.com/eng-gabrielscardoso"
-    target="_blank"
-  >
-    <img 
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-      alt="Github"
-      title="Github"
-    >
-  </a>
-  <a href="https://www.linkedin.com/in/eng-gabrielscardoso/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Linkedin"
-      title="LinkedIn"
-    >
-  </a>
-  <a href="https://www.linkedin.com/in/eng-gabrielscardoso/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-      alt="Instagram"
-      title="Instagram"
-    >
-  </a>
-  <a href="https://wa.me/message/SFETAGDRXGFND1" target="_blank">
-    <img
-      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-      alt="Whatsapp"
-      title="WhatsApp"
-    >
-  </a>
-  <a href="https://t.me/enggabrielscardoso" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Telegram"
-      title="Telegram"
-    >
-  </a>
-</p>
+<div class="main-section">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
 
-Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Barcarena, PA, I am 21 years old and I am looking for new job opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
+  <div>
+  <p> 
+    Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Barcarena, PA, I am 21 years old and I am looking for new job opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
+  </p>
 
-* Check my personal portfolio [HERE](https://eng-gabrielscardoso.github.io/).
-* How to reach me: eng.gabrielscardoso@gmail.com
-* Gratuated in logistics management - UNIP 🚚
-* Postgraduated in software engineering - FECAF
-* Academic in information systems - UFPA 👨‍💻
-* Web Developer in [Dacxi Chain](https://dacxi.com/home) 💻
+  <ul>
+    <li>
+      Check my personal portfolio <a href="https://eng-gabrielscardoso.github.io/" target="_blank">HERE.</a>
+    </li>
+    <li>
+      How to reach me: <a href="mailto:eng-gabrielscardoso@gmail.com">eng.gabrielscardoso@gmail.com</a>
+    </li>
+    <li>
+      Gratuated in logistics management - UNIP 🚚
+    </li>
+    <li>
+      Postgraduated in software engineering - FECAF
+    </li>
+    <li>
+      Academic in information systems - UFPA 👨‍💻
+    </li>
+    <li>
+      Web Developer in <a href="https://dacxi.com/home" target="_blank">Dacxi Chain</a> 💻
+    </li>
+  </ul>
+
+  <p class="contacts">
+    <a 
+      href="https://github.com/eng-gabrielscardoso"
+      target="_blank"
+    >
+      <img 
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+        alt="Github"
+        title="Github"
+      >
+    </a>
+    <a href="https://www.linkedin.com/in/eng-gabrielscardoso/" target="_blank">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="Linkedin"
+        title="LinkedIn"
+      >
+    </a>
+    <a href="https://www.instagram.com/eng.gabrielscardoso" target="_blank">
+      <img
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+        alt="Instagram"
+        title="Instagram"
+      >
+    </a>
+    <a href="https://wa.me/message/SFETAGDRXGFND1" target="_blank">
+      <img
+        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        alt="Whatsapp"
+        title="WhatsApp"
+      >
+    </a>
+  </p>
+  </div>
+</div>
+
+<br />
 
 <div align="center">
   <a href="https://github.com/eng-gabrielscardoso">
