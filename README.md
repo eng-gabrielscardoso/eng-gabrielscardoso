@@ -29,7 +29,7 @@
     </li>
   </ul>
 
-  <p style="text-align: center;">
+  <p align="center">
     <a 
       href="https://github.com/eng-gabrielscardoso"
       target="_blank"
