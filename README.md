@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to my profile 🙋‍♂️</h1>
 
-<div class="main-section" style="display: flex; flex-direction: row-reverse; justify-content: between; align-items: center; @media (max-width: 896px) { display: flex; flex-direction: column; justify-content: center; align-items: center; }">
+<div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
 
-  <div>
+  <div align="left">
   <p> 
     Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Barcarena, PA, I am 21 years old and I am looking for new job opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
   </p>
