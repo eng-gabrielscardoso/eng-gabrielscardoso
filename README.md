@@ -53,14 +53,14 @@ Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently re
 <div align="center">
   <a href="https://github.com/eng-gabrielscardoso">
   <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-gabrielscardoso&layout=compact&langs_count=8&theme=dracula"
+    height="180em"
+    title="Gabriel Langs"
+  />
+  <img
     src="https://github-readme-stats.vercel.app/api?username=eng-gabrielscardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     height="180em"
     title="Gabriel Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-gabrielscardoso&layout=compact&langs_count=7&theme=dracula"
-    height="180em"
-    title="Gabriel Langs"
   />
 </div>
 
