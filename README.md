@@ -1,32 +1,6 @@
-<style>
-  img {
-    text-align: center;
-  }
-
-  .main-section {
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: between;
-    align-items: center;
-  }
-
-  .contacts {
-    text-align: center;
-  }
-
-  @media screen and (max-width: 896px) {
-    .main-section {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-    }
-  }
-</style>
-
 <h1 align="center">Welcome to my profile 🙋‍♂️</h1>
 
-<div class="main-section">
+<div class="main-section" style="display: flex; flex-direction: row-reverse; justify-content: between; align-items: center; @media (max-width: 896px) { display: flex; flex-direction: column; justify-content: center; align-items: center; }">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
 
   <div>
@@ -55,7 +29,7 @@
     </li>
   </ul>
 
-  <p class="contacts">
+  <p style="text-align: center;">
     <a 
       href="https://github.com/eng-gabrielscardoso"
       target="_blank"
