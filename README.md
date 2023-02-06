@@ -5,7 +5,7 @@
 
   <div align="left">
   <p> 
-    Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Barcarena, PA, I am 21 years old and I am looking for new job opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
+    Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Barcarena, PA, I am 21 years old, always open for new opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
   </p>
 
   <ul>
@@ -25,7 +25,7 @@
       Academic in information systems - UFPA 👨‍💻
     </li>
     <li>
-      Web Developer in <a href="https://dacxi.com/home" target="_blank">Dacxi Chain</a> 💻
+      Full-stack developer at <a href="https://www.wealth99.com/" target="_blank">Wealth99</a> 💻
     </li>
   </ul>
 
