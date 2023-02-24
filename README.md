@@ -25,7 +25,7 @@
       Academic in information systems - UFPA 👨‍💻
     </li>
     <li>
-      Full-stack developer at <a href="https://www.wealth99.com/" target="_blank">Wealth99</a> 💻
+      Full-stack developer at <a href="https://www.dacxichain.com/" target="_blank">Dacxi Chain</a> / <a href="https://www.wealth99.com/" target="_blank">Wealth99</a> 💻
     </li>
   </ul>
 
