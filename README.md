@@ -4,8 +4,24 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
 
   <div align="left">
-  <p> 
+  <p>
     Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Barcarena, PA, I am 21 years old, always open for new opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
+  </p>
+
+  <p>
+    As a seasoned Full Stack developer with expertise in web development, database design, and most recent and relevant technologies, I am passionate about creating innovative solutions that drive business success. With a proven track record of developing scalable and succeeded web applications, I am skilled in both front-end and back-end technologies, including modern frameworks such as ReactJS, VueJS, Laravel, NestJS, and others.
+  </p>
+
+  <p>
+    My experience includes designing and implementing databases using SQL and NoSQL technologies, deploying applications, and optimizing performance through responsive web design techniques. I am proficient in version control systems such as Git, and have a strong ability to troubleshoot and debug applications.
+  </p>
+
+  <p>
+    I have excellent communication and collaboration skills, working effectively in both individual and team settings. I am constantly adapting to changing technologies and enjoy staying up-to-date with the latest industry trends. My passion for coding, combined with my problem-solving mindset, makes me a versatile asset to any development team.
+  </p>
+
+  <p>
+    If you are looking for a Full Stack Engineer who can deliver innovative web applications with efficiency and quality, I would love to connect with you. Let's collaborate and create exceptional user experiences together.
   </p>
 
   <ul>
@@ -96,6 +112,7 @@
 ## Main technologies and tools
 
 ### Front-end
+
 <div style="display: inline_block"><br>
   <img
     align="center"
@@ -220,6 +237,7 @@
 </div>
 
 ### Back-end
+
 <div style="display: inline_block"><br>
   <img
     align="center"
@@ -381,6 +399,7 @@
 </div>
 
 ### Database and ORM
+
 <div style="display: inline_block"><br>
   <img
     align="center"
