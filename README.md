@@ -70,13 +70,13 @@
         title="Instagram"
       >
     </a>
-    <a href="https://wa.me/message/SFETAGDRXGFND1" target="_blank">
+    <!-- <a href="https://wa.me/message/SFETAGDRXGFND1" target="_blank">
       <img
         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         alt="Whatsapp"
         title="WhatsApp"
       >
-    </a>
+    </a> -->
   </p>
   </div>
 </div>
