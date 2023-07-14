@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile 🙋‍♂️</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="banner">
 
   <div align="left">
   <p>
@@ -32,10 +32,10 @@
       How to reach me: <a href="mailto:eng-gabrielscardoso@gmail.com">eng.gabrielscardoso@gmail.com</a>
     </li>
     <li>
-      Gratuated in logistics management - UNIP 🚚
+      Graduated in logistics management - UNIP 🚚
     </li>
     <li>
-      Postgraduated in software engineering - FECAF
+      Post-graduated in software engineering - UniFECAF
     </li>
     <li>
       Academic in information systems - UFPA 👨‍💻
@@ -70,13 +70,6 @@
         title="Instagram"
       >
     </a>
-    <!-- <a href="https://wa.me/message/SFETAGDRXGFND1" target="_blank">
-      <img
-        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-        alt="Whatsapp"
-        title="WhatsApp"
-      >
-    </a> -->
   </p>
   </div>
 </div>
@@ -101,477 +94,34 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eng-gabrielscardoso&theme=dracula">
 </div>
 
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eng-gabrielscardoso&theme=dracula">
-</div> -->
-
-<!-- <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=eng-gabrielscardoso&theme=dracula">
-</div> -->
-
 ## Main technologies and tools
 
 ### Front-end
 
 <div style="display: inline_block"><br>
-  <img
-    align="center"
-    alt="HTML"
-    title="HTML"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-  >
-  <img
-    align="center"
-    alt="CSS"
-    title="CSS"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-  >
-  <img
-    align="center"
-    alt="Js"
-    title="Js"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-  >
-  <img
-    align="center"
-    alt="Ts"
-    title="Ts"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-  >
-  <img
-    align="center"
-    alt="jQuery"
-    title="jQuery"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg"
-  >
-  <img
-    align="center"
-    alt="Sass"
-    title="Sass"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-  >
-  <img
-    align="center"
-    alt="Less"
-    title="Less"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg"
-  >
-  <img
-    align="center"
-    alt="Tailwind"
-    title="Tailwind"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
-  >
-  <img
-    align="center"
-    alt="Bootstrap"
-    title="Bootstrap"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
-  >
-  <img
-    align="center"
-    alt="AngularJs"
-    title="AngularJs"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
-  >
-  <img
-    align="center"
-    alt="React"
-    title="React"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-  >
-  <img
-    align="center"
-    alt="VueJs"
-    title="VueJs"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-  >
-  <img
-    align="center"
-    alt="NuxtJs"
-    title="NuxtJs"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"
-  >
-  <img
-    align="center"
-    alt="Svelte"
-    title="Svelte"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg"
-  >
-  <img
-    align="center"
-    alt="Jest"
-    title="Jest"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
-  >
+  <img src="https://skills.thijs.gg/icons?i=html,css,js,ts,jquery,sass,tailwindcss,bootstrap,angular,react,next,vuejs,nuxtjs,svelte,jest" alt="Front-end" />
 </div>
 
 ### Back-end
 
 <div style="display: inline_block"><br>
-  <img
-    align="center"
-    alt="Docker"
-    title="Docker"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"
-  >
-  <img
-    align="center"
-    alt="NodeJs"
-    title="NodeJs"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-  >
-  <img
-    align="center"
-    alt="Npm"
-    title="Npm"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
-  >
-  <img
-    align="center"
-    alt="Yarn"
-    title="Yarn"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"
-  >
-  <img
-    align="center"
-    alt="ExpressJs"
-    title="ExpressJs"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-  >
-  <img
-    align="center"
-    alt="Js"
-    title="Js"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-  >
-  <img
-    align="center"
-    alt="Ts"
-    title="Ts"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-  >
-  <img
-    align="center"
-    alt="NestJS"
-    title="NestJS"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-  >
-  <img
-    align="center"
-    alt="Php"
-    title="Php"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-  >
-  <img
-    align="center"
-    alt="Laravel"
-    title="Laravel"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
-  >
-  <img
-    align="center"
-    alt="Java"
-    title="Java"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-  >
-  <img
-    align="center"
-    alt="Go"
-    title="Go"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-  >
-  <img
-    align="center"
-    alt="Apache"
-    title="Apache"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg"
-  >
+  <img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,php,laravel,java,spring,python,django,elixir,golang,docker" alt="Back-end" />
 </div>
 
 ### Blockchain
 
 <div style="display: inline_block"><br>
-  <img
-    align="center"
-    alt="Js"
-    title="Js"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-  >
-  <img
-    align="center"
-    alt="Ts"
-    title="Ts"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-  >
-  <img
-    align="center"
-    alt="Go"
-    title="Go"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-  >
-  <img
-    align="center"
-    alt="Solidity"
-    title="Solidity"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg"
-  >
-  <img
-    align="center"
-    alt="NodeJs"
-    title="NodeJs"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-  >
-  <img
-    align="center"
-    alt="Linux"
-    title="Linux"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-  >
+  <img src="https://skills.thijs.gg/icons?i=js,ts,golang,solidity,nodejs,linux" alt="Blockchain" />
 </div>
 
 ### Database and ORM
 
 <div style="display: inline_block"><br>
-  <img
-    align="center"
-    alt="MySql"
-    title="MySql"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-  >
-  <img
-    align="center"
-    alt="PostgreSql"
-    title="PostgreSql"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-  >
-  <img
-    align="center"
-    alt="SQLite"
-    title="SQLite"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
-  >
-  <img
-    align="center"
-    alt="MongoDb"
-    title="MongoDb"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-  >
-  <img
-    align="center"
-    alt="Sequelize"
-    title="Sequelize"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-plain.svg"
-  >
+  <img src="https://skills.thijs.gg/icons?i=mysql,postgresql,sqlite,mongodb,redis" alt="Databases and ORMs" />
 </div>
 
 ### Other tools
 
 <div style="display: inline_block"><br>
-  <img
-    align="center"
-    alt="Linux"
-    title="Linux"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-  >
-  <img
-    align="center"
-    alt="Windows"
-    title="Windows"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"
-  >
-  <img
-    align="center"
-    alt="SSH"
-    title="SSH"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg"
-  >
-  <img
-    align="center"
-    alt="Bash"
-    title="Bash"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
-  >
-  <img
-    align="center"
-    alt="Python"
-    title="Python"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  >
-  <img
-    align="center"
-    alt="R"
-    title="R"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
-  >
-  <img
-    align="center"
-    alt="C"
-    title="C"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-  >
-  <img
-    align="center"
-    alt="Git"
-    title="Git"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-  >
-  <img
-    align="center"
-    alt="Github"
-    title="Github"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-  >
-  <img
-    align="center"
-    alt="Gitlab"
-    title="Gitlab"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
-  >
-  <img
-    align="center"
-    alt="Jira"
-    title="Jira"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"
-  >
-  <img
-    align="center"
-    alt="Slack"
-    title="Slack"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"
-  >
-  <img
-    align="center"
-    alt="Gulp"
-    title="Gulp"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
-  >
-  <img
-    align="center"
-    alt="Webpack"
-    title="Webpack"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"
-  >
-  <img
-    align="center"
-    alt="Gimp"
-    title="Gimp"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"
-  >
-  <img
-    align="center"
-    alt="Inkscape"
-    title="Inkscape"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg"
-  >
+  <img src="https://skills.thijs.gg/icons?i=linux,vscode,postman,bash,python,r,c,git,github,gitlab,gulp,webpack,vite" alt="Other tools" />
 </div>
