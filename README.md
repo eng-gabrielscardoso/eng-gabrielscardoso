@@ -99,7 +99,7 @@
 ### Front-end
 
 <div style="display: inline_block"><br>
-  <img src="https://skills.thijs.gg/icons?i=html,css,js,ts,jquery,sass,tailwindcss,bootstrap,angular,react,next,vuejs,nuxtjs,svelte,jest" alt="Front-end" />
+  <img src="https://skills.thijs.gg/icons?i=html,css,js,ts,jquery,sass,tailwindcss,bootstrap,angular,react,next,vuejs,nuxtjs,svelte,astro,jest" alt="Front-end" />
 </div>
 
 ### Back-end
