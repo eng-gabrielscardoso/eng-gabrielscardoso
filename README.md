@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile 🙋‍♂️</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="banner">
+  <img src="https:/ /raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="banner">
 
   <div align="left">
   <p>
@@ -98,30 +98,22 @@
 
 ### Front-end
 
-<div style="display: inline_block"><br>
-  <img src="https://skills.thijs.gg/icons?i=html,css,js,ts,jquery,sass,tailwindcss,bootstrap,angular,react,next,vuejs,nuxtjs,svelte,astro,jest" alt="Front-end" />
-</div>
+<img src="https://skills.thijs.gg/icons?i=html,css,js,ts,jquery,sass,tailwindcss,bootstrap,angular,react,next,vuejs,nuxtjs,svelte,astro,jest" alt="Front-end" />
 
 ### Back-end
 
-<div style="display: inline_block"><br>
-  <img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,php,laravel,java,spring,python,django,elixir,golang,docker" alt="Back-end" />
-</div>
+<img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,php,laravel,java,maven,spring,python,django,elixir,golang,docker,aws" alt="Back-end" />
 
 ### Blockchain
 
-<div style="display: inline_block"><br>
-  <img src="https://skills.thijs.gg/icons?i=js,ts,golang,solidity,nodejs,linux" alt="Blockchain" />
+<img src="https://skills.thijs.gg/icons?i=js,ts,golang,solidity,nodejs,linux" alt="Blockchain" />
 </div>
 
 ### Database and ORM
 
-<div style="display: inline_block"><br>
-  <img src="https://skills.thijs.gg/icons?i=mysql,postgresql,sqlite,mongodb,redis" alt="Databases and ORMs" />
+<img src="https://skills.thijs.gg/icons?i=mysql,postgresql,sqlite,mongodb,redis" alt="Databases and ORMs" />
 </div>
 
 ### Other tools
 
-<div style="display: inline_block"><br>
-  <img src="https://skills.thijs.gg/icons?i=linux,vscode,postman,bash,python,r,c,git,github,gitlab,gulp,webpack,vite" alt="Other tools" />
-</div>
+<img src="https://skills.thijs.gg/icons?i=linux,vscode,postman,bash,python,r,c,git,github,gitlab,figma,gulp,webpack,vite" alt="Other tools" />
