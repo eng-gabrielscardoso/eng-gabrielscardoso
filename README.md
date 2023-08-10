@@ -102,7 +102,7 @@
 
 ### Back-end
 
-<img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,php,laravel,java,maven,spring,python,django,elixir,golang,docker,aws" alt="Back-end" />
+<img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,php,laravel,java,maven,spring,python,django,elixir,golang,docker,aws,firebase,supabase" alt="Back-end" />
 
 ### Blockchain
 
