@@ -111,18 +111,16 @@
 
 ### Back-end
 
-<img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,php,laravel,java,maven,spring,python,django,elixir,golang,docker,aws,firebase,supabase" alt="Back-end" />
+<img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,adonis,php,laravel,java,maven,spring,python,flask,django,elixir,golang,docker,aws,heroku,netlify,vercel,firebase,supabase" alt="Back-end" />
 
 ### Blockchain
 
 <img src="https://skills.thijs.gg/icons?i=js,ts,golang,solidity,nodejs,linux" alt="Blockchain" />
-</div>
 
 ### Database and ORM
 
-<img src="https://skills.thijs.gg/icons?i=mysql,postgresql,sqlite,mongodb,redis" alt="Databases and ORMs" />
-</div>
+<img src="https://skills.thijs.gg/icons?i=mysql,postgresql,sqlite,mongodb,redis,prisma" alt="Databases and ORMs" />
 
 ### Other tools
 
-<img src="https://skills.thijs.gg/icons?i=linux,vscode,postman,bash,python,r,c,git,github,gitlab,figma,gulp,webpack,vite" alt="Other tools" />
+<img src="https://skills.thijs.gg/icons?i=linux,vscode,postman,eclipse,bash,python,r,c,git,markdown,github,gitlab,figma,discord,gulp,webpack,vite" alt="Other tools" />
