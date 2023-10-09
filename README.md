@@ -32,16 +32,19 @@
       How to reach me: <a href="mailto:eng-gabrielscardoso@gmail.com">eng.gabrielscardoso@gmail.com</a>
     </li>
     <li>
-      Graduated in logistics management - UNIP 🚚
+      Graduated in Logistics Management - <a href="https://inscricoes.unip.br/inscricao" target="_blank">UNIP</a>
     </li>
     <li>
-      Post-graduated in software engineering - UniFECAF
+      Post-Graduated in Software Engineering - <a href="https://www.unifecaf.com.br/" target="_blank">UniFECAF</a>
     </li>
     <li>
-      Academic in information systems - UFPA 👨‍💻
+      Academic Student in Information Systems - <a href="https://www.ufpa.br/" target="_blank">UFPA</a>
     </li>
     <li>
-      Full-stack developer at <a href="https://www.dacxichain.com/" target="_blank">Dacxi Chain</a> / <a href="https://www.wealth99.com/" target="_blank">Wealth99</a> 💻
+      Fullstack Developer at <a href="https://www.dacxichain.com/" target="_blank">Dacxi Chain</a> / <a href="https://www.wealth99.com/" target="_blank">Wealth99</a> 💻
+    </li>
+    <li>
+      Partner Developer at <a href="https://athenlabs.io/" target="_blank">Athen Labs</a> 💻
     </li>
   </ul>
 
