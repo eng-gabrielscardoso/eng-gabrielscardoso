@@ -5,7 +5,7 @@
 
   <div align="left">
   <p>
-    Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Barcarena, PA, I am 21 years old, always open for new opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
+    Hello, I'm Gabriel Santos Cardoso, a man in love with technology. I currently reside in Brazil, 21-years-old, always open for new opportunities. Feel free to contact me to discuss business, studies, or simply exchange a good idea between colleagues.
   </p>
 
   <p>
@@ -46,6 +46,13 @@
   </ul>
 
   <p align="center">
+    <a href="#">
+      <img 
+        src="https://komarev.com/ghpvc/?username=eng-gabrielscardoso&color=blueviolet&style=for-the-badge"
+        alt="Profile Counter"
+        title="Profile Counter"
+      >
+    </a>
     <a 
       href="https://github.com/eng-gabrielscardoso"
       target="_blank"
