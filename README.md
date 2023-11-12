@@ -7,7 +7,7 @@
   <br />
 
   <p align="center">
-    <a href="#">
+    <a href="#" style="text-decoration:none;underline:none;">
       <img 
         src="https://komarev.com/ghpvc/?username=eng-gabrielscardoso&color=blueviolet&style=for-the-badge"
         alt="Profile Counter"
@@ -17,6 +17,7 @@
     <a 
       href="https://github.com/eng-gabrielscardoso"
       target="_blank"
+      style="text-decoration:none;underline:none;"
     >
       <img 
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
@@ -24,14 +25,22 @@
         title="Github"
       >
     </a>
-    <a href="https://www.linkedin.com/in/eng-gabrielscardoso/" target="_blank">
+    <a
+      href="https://www.linkedin.com/in/eng-gabrielscardoso/"
+      target="_blank"
+      style="text-decoration:none;underline:none;"
+    >
       <img
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="Linkedin"
         title="LinkedIn"
       >
     </a>
-    <a href="https://www.instagram.com/eng.gabrielscardoso" target="_blank">
+    <a
+      href="https://www.instagram.com/eng.gabrielscardoso"
+      target="_blank"
+      style="text-decoration:none;underline:none;"
+    >
       <img
         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
         alt="Instagram"
@@ -40,7 +49,7 @@
     </a>
   </p>
 
-  <!-- <div align="center" style="display:flex;gap:0.4rem;flex-wrap:wrap;justify-content:center;align-items:center">
+  <div align="center" style="display:flex;gap:0.4rem;flex-wrap:wrap;justify-content:center;align-items:center">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-gabrielscardoso&layout=compact&langs_count=8&theme=dracula"
       height="180em"
@@ -51,10 +60,10 @@
       height="180em"
       title="Gabriel Stats"
     />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=eng-gabrielscardoso&theme=dracula">
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=eng-gabrielscardoso&theme=dracula"> -->
   </div>
 
-  <br /> -->
+  <br />
 
   <div align="left">
     <p>
@@ -106,11 +115,15 @@
 
 ### Back-end
 
-<img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,adonis,php,laravel,java,maven,spring,python,flask,django,elixir,golang,docker,aws,heroku,netlify,vercel,firebase,supabase" alt="Back-end" />
+<img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,adonis,php,laravel,java,maven,spring,python,flask,django,elixir,golang,docker,githubactions,aws,heroku,netlify,vercel,firebase,supabase" alt="Back-end" />
 
 ### Blockchain
 
 <img src="https://skills.thijs.gg/icons?i=js,ts,golang,solidity,nodejs,linux" alt="Blockchain" />
+
+### Data science
+
+<img src="https://skills.thijs.gg/icons?i=aws,bash,docker,gcp,py,r" alt="Data science" />
 
 ### Database and ORM
 
@@ -118,4 +131,4 @@
 
 ### Other tools
 
-<img src="https://skills.thijs.gg/icons?i=linux,vscode,postman,eclipse,bash,python,r,c,git,markdown,github,gitlab,figma,discord,gulp,webpack,vite" alt="Other tools" />
+<img src="https://skills.thijs.gg/icons?i=linux,vscode,postman,eclipse,bash,python,r,c,git,markdown,github,githubactions,gitlab,figma,discord,gulp,webpack,vite" alt="Other tools" />
