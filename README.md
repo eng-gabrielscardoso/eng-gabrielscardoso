@@ -109,26 +109,18 @@
 
 ## Main technologies and tools
 
-### Front-end
+### Programming languages
 
-<img src="https://skills.thijs.gg/icons?i=html,css,js,ts,jquery,sass,tailwindcss,bootstrap,angular,react,next,vuejs,nuxtjs,svelte,astro,jest" alt="Front-end" />
+<img src="https://skills.thijs.gg/icons?i=js,ts,php,java,python,r,go,elixir,solidity,bash" alt="Programming languages" />
 
-### Back-end
+### Frameworks and libraries
 
-<img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,adonis,php,laravel,java,maven,spring,python,flask,django,elixir,golang,docker,githubactions,aws,heroku,netlify,vercel,firebase,supabase" alt="Back-end" />
+<img src="https://skills.thijs.gg/icons?i=react,next,vue,nuxt,nestjs,angular,adonis,laravel,flask,django,aws,gcp" alt="Frameworks and libraries" />
 
-### Blockchain
+### Database and ORMs
 
-<img src="https://skills.thijs.gg/icons?i=js,ts,golang,solidity,nodejs,linux" alt="Blockchain" />
+<img src="https://skills.thijs.gg/icons?i=mysql,postgresql,mongodb,redis,sqlite,prisma,firebase,supabase" alt="Database and ORMs" />
 
-### Data science
+### Tools set
 
-<img src="https://skills.thijs.gg/icons?i=aws,bash,docker,gcp,py,r" alt="Data science" />
-
-### Database and ORM
-
-<img src="https://skills.thijs.gg/icons?i=mysql,postgresql,sqlite,mongodb,redis,prisma" alt="Databases and ORMs" />
-
-### Other tools
-
-<img src="https://skills.thijs.gg/icons?i=linux,vscode,postman,eclipse,bash,python,r,c,git,markdown,github,githubactions,gitlab,figma,discord,gulp,webpack,vite" alt="Other tools" />
+<img src="https://skills.thijs.gg/icons?i=nodejs,vscode,docker,bash,git,linux,postman,markdown,github,gitlab,figma,githubactions" alt="Tools set" />
