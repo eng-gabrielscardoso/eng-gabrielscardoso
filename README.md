@@ -67,7 +67,7 @@
 
   <div align="left">
     <p>
-      Hello, I'm Gabriel Santos Cardoso, a man who loves technology. I currently reside in Brazil, 21 years old, always open to new opportunities. Feel free to contact me to discuss business, and studies, or simply exchange a good idea between colleagues.
+      Hello, I'm Gabriel Santos Cardoso, a man who loves technology. I currently reside in Brazil, 22 years old, always open to new opportunities. Feel free to contact me to discuss business, and studies, or simply exchange a good idea between colleagues.
     </p>
     <p>
       As a seasoned full-stack developer with expertise in web development, database design, and most recent and relevant technologies, I am passionate about creating innovative solutions that drive business success. With a proven track record of developing scalable and successful web applications, I am skilled in both front-end and back-end technologies, including modern frameworks such as ReactJS, VueJS, Laravel, NestJS, and others.
