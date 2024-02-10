@@ -115,7 +115,7 @@
 
 ### Frameworks and libraries
 
-<img src="https://skills.thijs.gg/icons?i=react,next,vue,nuxt,nestjs,angular,adonis,laravel,flask,django,aws,gcp" alt="Frameworks and libraries" />
+<img src="https://skills.thijs.gg/icons?i=react,next,vue,nuxt,nestjs,angular,adonis,laravel,spring,aws,gcp" alt="Frameworks and libraries" />
 
 ### Database and ORMs
 
