@@ -67,10 +67,10 @@
 
   <div align="left">
     <p>
-      Hello, I'm Gabriel Santos Cardoso, a man who loves technology. I currently reside in Brazil, 22 years old, always open to new opportunities. Feel free to contact me to discuss business, and studies, or simply exchange a good idea between colleagues.
+      Hello, I'm Gabriel Santos Cardoso, a man who loves technology. I currently reside in Brazil, 22 years old, and always open to new opportunities. Feel free to contact me to discuss business, and studies, or simply exchange a good idea between colleagues.
     </p>
     <p>
-      As a seasoned full-stack developer with expertise in web development, database design, and most recent and relevant technologies, I am passionate about creating innovative solutions that drive business success. With a proven track record of developing scalable and successful web applications, I am skilled in both front-end and back-end technologies, including modern frameworks such as ReactJS, VueJS, Laravel, NestJS, and others.
+      As a seasoned Full Stack developer with expertise in web development, database design, and most recent and relevant technologies, I am passionate about creating innovative solutions that drive business success. With a proven track record of developing scalable and successful web applications, I am skilled in both front-end and back-end technologies, including modern frameworks such as ReactJS, VueJS, Laravel, NestJS, and others.
     </p>
     <p>
       My experience includes designing and implementing databases using SQL and NoSQL technologies, deploying applications, and optimizing performance through responsive web design techniques. I am proficient in version control systems such as Git, and have a strong ability to troubleshoot and debug applications.
@@ -98,7 +98,7 @@
         Academic Student in Information Systems - <a href="https://www.ufpa.br/" target="_blank">UFPA</a>
       </li>
       <li>
-        Fullstack Developer at <a href="https://www.dacxichain.com/" target="_blank">Dacxi Chain</a> / <a href="https://www.wealth99.com/" target="_blank">Wealth99</a> 💻
+        Full Stack Developer at <a href="https://www.dacxichain.com/" target="_blank">Dacxi Chain</a> / <a href="https://www.wealth99.com/" target="_blank">Wealth99</a> 💻
       </li>
       <li>
         Freelance Developer at <a href="https://athenlabs.io/" target="_blank">Athen Labs</a> 💻
