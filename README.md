@@ -119,7 +119,7 @@
 
 ### Database and ORMs
 
-<img src="https://skills.thijs.gg/icons?i=mysql,postgresql,mongodb,redis,sqlite,prisma,firebase,supabase" alt="Database and ORMs" />
+<img src="https://skills.thijs.gg/icons?i=mysql,postgresql,mongodb,redis,sqlite,prisma,firebase,supabase,aws,gcp" alt="Database and ORMs" />
 
 ### Tools set
 
