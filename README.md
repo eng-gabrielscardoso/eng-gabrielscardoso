@@ -101,7 +101,7 @@
         Full Stack Developer at <a href="https://www.dacxichain.com/" target="_blank">Dacxi Chain</a> / <a href="https://www.wealth99.com/" target="_blank">Wealth99</a> 💻
       </li>
       <li>
-        Freelance Developer at <a href="https://athenlabs.io/" target="_blank">Athen Labs</a> 💻
+        Full Stack Developer at <a href="https://athenlabs.io/" target="_blank">Athen Labs</a> 💻
       </li>
     </ul>
   </div>
