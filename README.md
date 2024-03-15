@@ -80,7 +80,7 @@ I have excellent communication and collaboration skills, working effectively in 
 
 **Full Stack Developer** \
 [**Dacxi Chain**](https://dacxichain.com) • Contract • Remote \
-Experience period: `Feb 2023` - `Present` \
+Period: `Feb 2023` - `Present` \
 Tech stack: `Vue.js`, `Vite`, `Pinia`, `Laravel`, `Docker`, `PHP`, `Typescript`, `TailwindCSS`, `AWS`
 <br/>
 
@@ -88,7 +88,7 @@ Tech stack: `Vue.js`, `Vite`, `Pinia`, `Laravel`, `Docker`, `PHP`, `Typescript`,
 
 **Full Stack Developer** \
 [**Wealth99**](https://wealth99.com) • Contract • Remote \
-Experience period: `Apr 2022` - `Present` \
+Period: `Apr 2022` - `Present` \
 Tech stack: `Vue.js`, `Vite`, `VueX`, `Laravel`, `Docker`, `PHP`, `Typescript`, `TailwindCSS`, `AWS`
 <br/>
 
@@ -96,7 +96,7 @@ Tech stack: `Vue.js`, `Vite`, `VueX`, `Laravel`, `Docker`, `PHP`, `Typescript`, 
 
 **Full Stack Developer** \
 [**Athen Labs**](https://athenlabs.io) • Freelance • Remote \
-Experience period: `Jun 2023` - `Jul 2023` \
+Period: `Jun 2023` - `Jul 2023` \
 Tech stack: `Vue.js`, `Nuxt.js` `Vite`, `Pinia`, `Typescript`, `TailwindCSS`, `Prisma`, `Supabase`
 <br/>
 
@@ -104,7 +104,7 @@ Tech stack: `Vue.js`, `Nuxt.js` `Vite`, `Pinia`, `Typescript`, `TailwindCSS`, `P
 
 **Software Developer** \
 [**UFPA**](https://ufpa.br) • Internship • On-site \
-Experience period: `Sep 2021` - `Apr 2022` \
+Period: `Sep 2021` - `Apr 2022` \
 Tech stack: `Vue.js`, `Nuxt.js` `Javascript`, `Typescript`, `PHP`, `Bootstrap`, `Linux`, `DSpace`, `JSP`
 <br/>
 
@@ -115,7 +115,7 @@ Tech stack: `Vue.js`, `Nuxt.js` `Javascript`, `Typescript`, `PHP`, `Bootstrap`, 
 **Information Systems** \
 [**UFPA**](https://ufpa.br) • Belém, PA, Brazil \
 Degree: `Bachelor Degree` \
-Education period: `Sep 2021` - `Present`
+Period: `Sep 2021` - `Present`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/unifecaf-29f74eb6.jpeg"/>](https://unifecaf.com.br)
@@ -123,7 +123,7 @@ Education period: `Sep 2021` - `Present`
 **Software Engineering** \
 [**UniFECAF**](https://unifecaf.com.br) • Remote \
 Degree: `Postgraduate Specialisation (Lato Sensu)` \
-Education period: `Sep 2021` - `Apr 2022`
+Period: `Sep 2021` - `Apr 2022`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/unip-a27fb710.jpeg"/>](https://unip.com)
@@ -131,7 +131,7 @@ Education period: `Sep 2021` - `Apr 2022`
 **Logistics Management** \
 [**UNIP**](https://unip.com) • Belém, PA, Brazil \
 Degree: `Bachelor of Technology` \
-Education period: `Aug 2019` - `Jul 2021`
+Period: `Aug 2019` - `Jul 2021`
 <br/>
 
 ## Main technologies and tools
