@@ -115,7 +115,7 @@ Tech stack: `Vue.js`, `Nuxt.js` `Javascript`, `Typescript`, `PHP`, `Bootstrap`, 
 **Information Systems** \
 [**UFPA**](https://ufpa.br) • Belém, PA, Brazil \
 Degree: `Bachelor Degree` \
-Period: `Sep 2021` - `Present`
+Period: `Jun 2021` - `Present`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/unifecaf-29f74eb6.jpeg"/>](https://unifecaf.com.br)
