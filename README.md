@@ -81,7 +81,7 @@ I have excellent communication and collaboration skills, working effectively in 
 **Full Stack Developer** \
 [**Dacxi Chain**](https://dacxichain.com) • Contract • Remote \
 Period: `Feb 2023` - `Present` \
-Tech stack: `Vue.js`, `Vite`, `Pinia`, `Laravel`, `Docker`, `PHP`, `Typescript`, `TailwindCSS`, `AWS`
+Industry: `Financial Services`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Wealth99" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/wealth99-de798de4.jpeg"/>](https://wealth99.com)
@@ -89,7 +89,7 @@ Tech stack: `Vue.js`, `Vite`, `Pinia`, `Laravel`, `Docker`, `PHP`, `Typescript`,
 **Full Stack Developer** \
 [**Wealth99**](https://wealth99.com) • Contract • Remote \
 Period: `Apr 2022` - `Present` \
-Tech stack: `Vue.js`, `Vite`, `VueX`, `Laravel`, `Docker`, `PHP`, `Typescript`, `TailwindCSS`, `AWS`
+Industry: `Financial Services`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Athen Labs" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/athenlabs-1b2c839e.jpg"/>](https://athenlabs.io)
@@ -97,7 +97,7 @@ Tech stack: `Vue.js`, `Vite`, `VueX`, `Laravel`, `Docker`, `PHP`, `Typescript`, 
 **Full Stack Developer** \
 [**Athen Labs**](https://athenlabs.io) • Freelance • Remote \
 Period: `Jun 2023` - `Jul 2023` \
-Tech stack: `Vue.js`, `Nuxt.js` `Vite`, `Pinia`, `Typescript`, `TailwindCSS`, `Prisma`, `Supabase`
+Industry: `IT services and consulting`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/ufpa-f8056f76.jpeg"/>](https://ufpa.br)
@@ -105,7 +105,7 @@ Tech stack: `Vue.js`, `Nuxt.js` `Vite`, `Pinia`, `Typescript`, `TailwindCSS`, `P
 **Software Developer** \
 [**UFPA**](https://ufpa.br) • Internship • On-site \
 Period: `Sep 2021` - `Apr 2022` \
-Tech stack: `Vue.js`, `Nuxt.js` `Javascript`, `Typescript`, `PHP`, `Bootstrap`, `Linux`, `DSpace`, `JSP`
+Industry: `Higher Education`
 <br/>
 
 ## Education
