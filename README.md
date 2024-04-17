@@ -76,6 +76,14 @@ I have excellent communication and collaboration skills, working effectively in 
 
 ## Experiences
 
+[<img align="left" height="94px" width="94px" alt="DefSafe" style="margin-right:1rem;" src="https://media.licdn.com/dms/image/D4D0BAQEaB4veCIs_Qg/company-logo_200_200/0/1706721968638/defsafe_logo?e=1721260800&v=beta&t=nNNsFW-O1ESZVWTEH7nr7dhwFNqP-4yATgV_NowiAsI"/>](https://defsafe.com)
+
+**Full Stack Developer** \
+[**DefSafe**](https://defsafe.com) • Contract • Remote \
+Period: `Mar 2024` - `Present` \
+Industry: `Computing and Network Services`
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Dacxi Chain" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/dacxi-chain-2fba18a6.jpeg"/>](https://dacxichain.com)
 
 **Full Stack Developer** \
