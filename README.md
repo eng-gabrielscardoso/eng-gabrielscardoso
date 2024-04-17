@@ -80,7 +80,7 @@ I have excellent communication and collaboration skills, working effectively in 
 
 **Full Stack Developer** \
 [**Dacxi Chain**](https://dacxichain.com) • Contract • Remote \
-Period: `Feb 2023` - `Present` \
+Period: `Feb 2023` - `Apr 2024` \
 Industry: `Financial Services`
 <br/>
 
@@ -88,7 +88,7 @@ Industry: `Financial Services`
 
 **Full Stack Developer** \
 [**Wealth99**](https://wealth99.com) • Contract • Remote \
-Period: `Apr 2022` - `Present` \
+Period: `Apr 2022` - `Apr 2024` \
 Industry: `Financial Services`
 <br/>
 
