@@ -146,16 +146,16 @@ Period: `Aug 2019` - `Jul 2021`
 
 ### Languages
 
-<img src="https://skills.thijs.gg/icons?i=html,css,less,sass,js,ts,php,java,python,r,go,elixir,solidity,bash" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=html,css,less,sass,js,ts,php,java,python,r,go,elixir,solidity,bash" alt="Programming languages" />
 
 ### Frameworks and libraries
 
-<img src="https://skills.thijs.gg/icons?i=tailwind,react,next,vue,nuxt,pinia,vitest,jest,express,nestjs,adonis,angular,svelte,laravel,spring" alt="Frameworks and libraries" />
+<img src="https://skillicons.dev/icons?i=tailwind,react,next,vue,nuxt,vitest,jest,express,nestjs,adonis,angular,svelte,laravel,spring" alt="Frameworks and libraries" />
 
 ### Database/ORMs and Cloud Services
 
-<img src="https://skills.thijs.gg/icons?i=mysql,postgresql,mongodb,redis,sqlite,sequelize,prisma,firebase,supabase,aws,gcp,vercel,netlify,heroku" alt="Database and ORMs" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,sequelize,prisma,firebase,supabase,aws,gcp,vercel,netlify,heroku" alt="Database and ORMs" />
 
 ### Tools set
 
-<img src="https://skills.thijs.gg/icons?i=pnpm,yarn,nodejs,bun,vite,vscode,docker,git,linux,github,gitlab,figma,githubactions,latex" alt="Tools set" />
+<img src="https://skillicons.dev/icons?i=pnpm,yarn,nodejs,bun,vite,vscode,docker,git,linux,github,gitlab,figma,githubactions,latex" alt="Tools set" />
