@@ -76,11 +76,19 @@ I have excellent communication and collaboration skills, working effectively in 
 
 ## Experiences
 
+[<img align="left" height="94px" width="94px" alt="Fone.Ninja" style="margin-right:1rem;" src="https://media.licdn.com/dms/image/D4D0BAQHa_FQXZVq1CA/company-logo_200_200/0/1714940969038?e=1724284800&v=beta&t=-e_tCMMUmdzOHzE6_qbTVrqKB26cCrToAqd4MPq0-WY">](https://fone.ninja)
+
+**Full Stack Developer** \
+[**Fone.Ninja**](https://fone.ninja) • Contract • Remote \
+Period: `May 2024` - `Present` \
+Industry: `Software Development`
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="DefSafe" style="margin-right:1rem;" src="https://media.licdn.com/dms/image/D4D0BAQEaB4veCIs_Qg/company-logo_200_200/0/1706721968638/defsafe_logo?e=1721260800&v=beta&t=nNNsFW-O1ESZVWTEH7nr7dhwFNqP-4yATgV_NowiAsI"/>](https://defsafe.com)
 
 **Full Stack Developer** \
 [**DefSafe**](https://defsafe.com) • Contract • Remote \
-Period: `Mar 2024` - `Present` \
+Period: `Mar 2024` - `May 2024` \
 Industry: `Computing and Network Services`
 <br/>
 
