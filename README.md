@@ -37,6 +37,17 @@
       >
     </a>
     <a
+      href="https://discord.com/channels/@eng.gabrielscardoso"
+      target="_blank"
+      style="text-decoration:none;underline:none;"
+    >
+      <img
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
+        alt="Discord"
+        title="Discord"
+      >
+    </a>
+    <a
       href="https://www.instagram.com/eng.gabrielscardoso"
       target="_blank"
       style="text-decoration:none;underline:none;"
