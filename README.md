@@ -71,11 +71,11 @@
       height="180em"
       title="Gabriel Stats"
     />
-    <img
+    <!-- <img
       src="https://github-readme-streak-stats.herokuapp.com?user=eng-gabrielscardoso&theme=dracula"
       height="180em"
       title="Gabriel Streaks"
-    />
+    /> -->
   </div>
 </div>
 
