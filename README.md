@@ -179,7 +179,7 @@ Period: `Aug 2019` - `Jul 2021`
 
 ## Main technologies and tools
 
-### Languages
+### Languages and preprocessors
 
 <img src="https://skillicons.dev/icons?i=html,css,less,sass,js,ts,php,java,python,r,go,elixir,solidity,bash" alt="Programming languages" />
 
@@ -191,6 +191,6 @@ Period: `Aug 2019` - `Jul 2021`
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,sequelize,prisma,firebase,supabase,aws,gcp,vercel,netlify,heroku" alt="Database and ORMs" />
 
-### Tools set
+### Tools set and more
 
 <img src="https://skillicons.dev/icons?i=pnpm,yarn,nodejs,bun,vite,vscode,docker,git,linux,github,gitlab,figma,githubactions,latex" alt="Tools set" />
