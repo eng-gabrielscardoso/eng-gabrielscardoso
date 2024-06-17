@@ -82,12 +82,6 @@
 ## About me 
 
 Hello, I'm Gabriel Santos Cardoso,paraense (Brazil), 22 years old, and always open to new opportunities. Feel free to contact me to discuss business, and studies, or simply exchange a good idea between colleagues.
-      
-As a seasoned Full Stack developer I am about creating innovative solutions that drive business success. With a proven track record of developing scalable and successful web applications, I am skilled in both front-end and back-end technologies, including modern frameworks and multicultural environments.
-
-My experience includes designing and implementing databases using SQL and NoSQL technologies, deploying applications, and optimizing performance through responsive web design techniques. I am proficient in version control systems such as Git, and have a strong ability to troubleshoot and debug applications.
-
-I have excellent communication and collaboration skills, working effectively in individual and team settings. I am constantly adapting to changing technologies and enjoy staying up-to-date with the latest industry trends. My passion for coding, combined with my problem-solving mindset, makes me a versatile asset to any development team.
 
 ## Experiences
 
