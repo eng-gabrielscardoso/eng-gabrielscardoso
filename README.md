@@ -8,18 +8,18 @@
 
   <p align="center">
     <a href="#" style="text-decoration:none;underline:none;">
-      <img 
+      <img
         src="https://komarev.com/ghpvc/?username=eng-gabrielscardoso&color=blueviolet&style=for-the-badge"
         alt="Profile Counter"
         title="Profile Counter"
       >
     </a>
-    <a 
+    <a
       href="https://github.com/eng-gabrielscardoso"
       target="_blank"
       style="text-decoration:none;underline:none;"
     >
-      <img 
+      <img
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         alt="Github"
         title="Github"
@@ -42,7 +42,7 @@
       style="text-decoration:none;underline:none;"
     >
       <img
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
         alt="Discord"
         title="Discord"
       >
@@ -53,7 +53,7 @@
       style="text-decoration:none;underline:none;"
     >
       <img
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         alt="Instagram"
         title="Instagram"
       >
@@ -79,7 +79,7 @@
   </div>
 </div>
 
-## About me 
+## About me
 
 Hello, I'm Gabriel Santos Cardoso,paraense (Brazil), 22 years old, and always open to new opportunities. Feel free to contact me to discuss business, and studies, or simply exchange a good idea between colleagues.
 
@@ -171,20 +171,24 @@ Degree: `Bachelor of Technology` \
 Period: `Aug 2019` - `Jul 2021`
 <br/>
 
-## Main technologies and tools
+## Main technologies
 
-### Languages and preprocessors
+### Languages, preprocessors and style generators
 
-<img src="https://skillicons.dev/icons?i=html,css,less,sass,js,ts,php,java,python,r,go,elixir,solidity,bash" alt="Programming languages" />
+![Languages and preprocessors](https://go-skill-icons.vercel.app/api/icons?i=bash,bootstrap,css,elixir,go,html,java,js,less,php,py,sass,solidity,tailwind,ts)
 
 ### Frameworks and libraries
 
-<img src="https://skillicons.dev/icons?i=tailwind,react,next,vue,nuxt,vitest,jest,express,nestjs,adonis,angular,svelte,laravel,spring" alt="Frameworks and libraries" />
+![Frameworks and libs](https://go-skill-icons.vercel.app/api/icons?i=adonis,angular,astro,alpinejs,filament,jest,laravel,livewire,nestjs,nodejs,nuxtjs,pinia,vite,vitest,vue)
 
 ### Database/ORMs and Cloud Services
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,sequelize,prisma,firebase,supabase,aws,gcp,vercel,netlify,heroku" alt="Database and ORMs" />
+![Database/ORMs and Cloud Services](https://go-skill-icons.vercel.app/api/icons?i=aws,firebase,gcp,heroku,mongodb,mysql,netlify,nginx,postgresql,prisma,redis,sequelize,supabase,sqlite,vercel)
 
 ### Tools set and more
 
-<img src="https://skillicons.dev/icons?i=pnpm,yarn,nodejs,bun,vite,vscode,docker,git,linux,github,gitlab,figma,githubactions,latex" alt="Tools set" />
+![Tools and more](https://go-skill-icons.vercel.app/api/icons?i=dbeaver,discord,docker,figma,gimp,github,githubactions,googleanalytics,insomnia,pnpm,linux,md,npm,vscode,yarn)
+
+### Stu(dying) and interests
+
+![Stu(dying) and interests](https://go-skill-icons.vercel.app/api/icons?i=aws,azure,bun,chatgpt,codeigniter,elixir,gcp,gemini,go,js,php,spring,solidity,solidjs,svelte)
