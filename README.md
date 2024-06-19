@@ -179,7 +179,7 @@ Period: `Aug 2019` - `Jul 2021`
 
 ### Frameworks and libraries
 
-![Frameworks and libs](https://go-skill-icons.vercel.app/api/icons?i=adonis,angular,astro,alpinejs,filament,jest,laravel,livewire,nestjs,nodejs,nuxtjs,pinia,vite,vitest,vue)
+![Frameworks and libs](https://go-skill-icons.vercel.app/api/icons?i=adonis,angular,astro,alpinejs,filament,jest,laravel,livewire,breeze,cashier,echo,envoyer,forge,inertia,jetstream,nova,pint,prompts,sail,sanctum,socialite,telescope,vapor,nestjs,nodejs,nuxtjs,pinia,vite,vitest,vue)
 
 ### Database/ORMs and Cloud Services
 
