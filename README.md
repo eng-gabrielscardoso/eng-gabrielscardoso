@@ -85,7 +85,7 @@ Hello, I'm Gabriel Santos Cardoso,paraense (Brazil), 22 years old, and always op
 
 ## Experiences
 
-[<img align="left" height="94px" width="94px" alt="Fone.Ninja" style="margin-right:1rem;" src="https://media.licdn.com/dms/image/D4D0BAQHa_FQXZVq1CA/company-logo_200_200/0/1714940969038?e=1724284800&v=beta&t=-e_tCMMUmdzOHzE6_qbTVrqKB26cCrToAqd4MPq0-WY">](https://fone.ninja)
+[<img align="left" height="94px" width="94px" alt="Fone.Ninja" style="margin-right:1rem;" src="./.github/fone-ninja.jpeg">](https://fone.ninja)
 
 **Full Stack Developer** \
 [**Fone.Ninja**](https://fone.ninja) • Contract • Remote \
@@ -95,7 +95,7 @@ Industry: `Software Development`
 
 Contract work with Fone.Ninja, intermediation and agency of services company based in Brazil, where worked with technologies such as Git, HTML, CSS, Vue.js, Javascript, Typescript, PrimeFlex, PrimeVue, PHP, Laravel, Pest, Docker, MySQL, MinIO e AWS S3. Development of graphical interfaces, integration with APIs and development of APIs REST.
 
-[<img align="left" height="94px" width="94px" alt="DefSafe" style="margin-right:1rem;" src="https://media.licdn.com/dms/image/D4D0BAQEaB4veCIs_Qg/company-logo_200_200/0/1706721968638/defsafe_logo?e=1721260800&v=beta&t=nNNsFW-O1ESZVWTEH7nr7dhwFNqP-4yATgV_NowiAsI"/>](https://defsafe.com)
+[<img align="left" height="94px" width="94px" alt="DefSafe" style="margin-right:1rem;" src="./.github/defsafe.jpeg"/>](https://defsafe.com)
 
 **Full Stack Developer** \
 [**DefSafe**](https://defsafe.com) • Contract • Remote \
@@ -105,7 +105,7 @@ Industry: `Computing and Network Services`
 
 Contract work with DefSafe, cybersecurity and AI company based in the United States of America, where worked with technologies such as Git, HTML, CSS, NuxtJS, Typescript, TailwindCSS, Nitro, Supabase, Prisma, PostgreSQL and AWS Cognito and Lambda. Development of graphical interfaces, integration with APIs, identity federation, development of APIs REST using Nitro and Typescript using AWS and Supabase environments.
 
-[<img align="left" height="94px" width="94px" alt="Dacxi Chain" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/dacxi-chain-2fba18a6.jpeg"/>](https://dacxichain.com)
+[<img align="left" height="94px" width="94px" alt="Dacxi Chain" style="margin-right:1rem;" src="./.github/dacxi-chain.jpeg"/>](https://dacxichain.com)
 
 **Full Stack Developer** \
 [**Dacxi Chain**](https://dacxichain.com) • Contract • Remote \
@@ -115,7 +115,7 @@ Industry: `Financial Services`
 
 Contract work with Dacxi Chain, global crowdfunding enterprise based in Australia, where worked with technologies such as Git, HTML, CSS, Vue.js version 3, Javascript, Typescript TailwindCSS, Vite, Playwright, Vitest, Laravel using the Sail starter kit, Laravel Nova, Laravel Vapour, AWS, Docker, Docker Compose, OpenAPI, MySQL and Redis. Development of graphical interfaces, integration with APIs, unit, integration and E2E tests using Vitest and Playwright. Development of REST API using the MVC pattern, Laravel Nova, AWS Amplify and Laravel Vapour, unit and functionality testing with Pest.
 
-[<img align="left" height="94px" width="94px" alt="Wealth99" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/wealth99-de798de4.jpeg"/>](https://wealth99.com)
+[<img align="left" height="94px" width="94px" alt="Wealth99" style="margin-right:1rem;" src="./.github/wealth99.jpeg"/>](https://wealth99.com)
 
 **Full Stack Developer** \
 [**Wealth99**](https://wealth99.com) • Contract • Remote \
@@ -125,7 +125,7 @@ Industry: `Financial Services`
 
 Contract work with Weath99, global cryptocurrency exchange based in Australia, where worked with technologies such as Vue.js version 2, HTML, CSS, Javascript, Typescript, TailwindCSS, Webpack, Playwright, Vue Test Utils, Laravel version 5, Laravel Nova, AWS, Docker, Docker Compose, Blockchain, OpenAPI, MySQL, MongoDB and Redis. Development of graphical interfaces, integration with APIs, unit, integration and E2E tests using Vue Test Utils and Playwright. Development of REST API using the MVC pattern, Laravel Nova, unit and functionality tests with PHPUnit.
 
-[<img align="left" height="94px" width="94px" alt="Athen Labs" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/athenlabs-1b2c839e.jpg"/>](https://athenlabs.io)
+[<img align="left" height="94px" width="94px" alt="Athen Labs" style="margin-right:1rem;" src="./.github/athenlabs.jpeg"/>](https://athenlabs.io)
 
 **Full Stack Developer** \
 [**Athen Labs**](https://athenlabs.io) • Freelance • Remote \
@@ -135,7 +135,7 @@ Industry: `IT services and consulting`
 
 Freelance work where worked with technologies such as HTML, CSS, Javascript, Node.js, React.js, NextJS, NuxtJS, Typescript, TailwindCSS, DaisyUI, Vite, Vitest, Supabase, Prisma, Vercel and GitHub Actions. Development of graphical interfaces, implementation of new features, integration with APIs, unit and integration tests using Vitest and Jest. Development of REST API using the MVC pattern, the development of client features using NuxtJS Server and Supabase.
 
-[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/ufpa-f8056f76.jpeg"/>](https://ufpa.br)
+[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/ufpa.jpeg"/>](https://ufpa.br)
 
 **Software Developer** \
 [**UFPA**](https://ufpa.br) • Internship • On-site \
@@ -147,7 +147,7 @@ Internship PROAD scholarship holder at the Department of Development of Technolo
 
 ## Education
 
-[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/ufpa-f8056f76.jpeg"/>](https://ufpa.br)
+[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/ufpa.jpeg"/>](https://ufpa.br)
 
 **Information Systems** \
 [**UFPA**](https://ufpa.br) • Belém, PA, Brazil \
@@ -155,15 +155,23 @@ Degree: `Bachelor Degree` \
 Period: `Jun 2021` - `Present`
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/unifecaf-29f74eb6.jpeg"/>](https://unifecaf.com.br)
+[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/anhanguera.jpeg"/>](https://anhanguera.com)
+
+**Software Architecture** \
+[**Anhanguera**](https://anhanguera.com) • Remote \
+Degree: `Specialisation (Lato Sensu)` \
+Period: `Jun 2021` - `Present`
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/unifecaf.jpeg"/>](https://unifecaf.com.br)
 
 **Software Engineering** \
 [**UniFECAF**](https://unifecaf.com.br) • Remote \
-Degree: `Postgraduate Specialisation (Lato Sensu)` \
+Degree: `Specialisation (Lato Sensu)` \
 Period: `Sep 2021` - `Apr 2022`
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="https://eng-gabrielscardoso.github.io/assets/unip-a27fb710.jpeg"/>](https://unip.com)
+[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/unip.jpeg"/>](https://unip.com)
 
 **Logistics Management** \
 [**UNIP**](https://unip.com) • Belém, PA, Brazil \
