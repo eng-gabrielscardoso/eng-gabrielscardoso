@@ -179,6 +179,14 @@ Degree: `Bachelor of Technology` \
 Period: `Aug 2019` - `Jul 2021`
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/uepa.jpeg"/>](https://www.uepa.br)
+
+**Environmental and Sanitary Engineering** \
+[**UEPA**](https://www.uepa.br/) • Belém, PA, Brazil \
+Degree: `Bachelor's Degree` \
+Period: `Feb 2020` - `Dec 2020`
+<br/>
+
 ## Main technologies
 
 ### Languages, preprocessors and style generators
@@ -191,7 +199,7 @@ Period: `Aug 2019` - `Jul 2021`
 
 ### Database/ORMs and Cloud Services
 
-![Database/ORMs and Cloud Services](https://go-skill-icons.vercel.app/api/icons?i=aws,firebase,gcp,heroku,mongodb,mysql,netlify,nginx,postgresql,prisma,redis,sequelize,supabase,sqlite,vercel)
+![Database/ORMs and Cloud Services](https://go-skill-icons.vercel.app/api/icons?i=aws,digitalocean,firebase,gcp,heroku,mongodb,mysql,netlify,nginx,postgresql,prisma,redis,supabase,sqlite,vercel)
 
 ### Tools set and more
 
