@@ -81,7 +81,7 @@
 
 ## About me
 
-Hello, I'm Gabriel Santos Cardoso,paraense (Brazil), 22 years old, and always open to new opportunities. Feel free to contact me to discuss business, and studies, or simply exchange a good idea between colleagues.
+Hello, I'm Gabriel Santos Cardoso, paraense (Brazil), 22 years old, and always open to new opportunities. Feel free to contact me to discuss business, and studies, or simply exchange a good idea between colleagues.
 
 ## Experiences
 
