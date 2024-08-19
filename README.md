@@ -81,7 +81,11 @@
 
 ## About me
 
-Hello, I'm Gabriel Santos Cardoso, paraense (Brazil), 22 years old, and always open to new opportunities. Feel free to contact me to discuss business, and studies, or simply exchange a good idea between colleagues.
+I'm Gabriel Santos Cardoso, paraense (Brazil), 22 years old, and always open to new opportunities. My personal interests include fields like AI, blockchain, web3, programming and modern technologies.
+
+If you are interested, check my curriculum vitae in the [link](https://docs.google.com/document/d/1k-huyj7Ao5NEy0reBUe9AI8PXiiT-w4Z5NsdiJkEIrg).
+
+Please feel free to contact me to talk about business and studies, or to exchange a good idea with colleagues.
 
 ## Experiences
 
