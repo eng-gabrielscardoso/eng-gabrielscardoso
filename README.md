@@ -81,7 +81,7 @@
 
 ## About me
 
-I'm Gabriel Santos Cardoso, paraense (Brazil), 22 years old, and always open to new opportunities. My personal interests include fields like AI, blockchain, web3, programming and modern technologies.
+I'm Gabriel Santos Cardoso, paraense (Brazil), 22 years old, and always open to new opportunities. Innovate Full Stack professional with 4+ years of experience working as a Full Stack Developer. Capable of working with various technologies and software solutions in the most diverse segments and multi-cultural teams. Among my professional goals are to always be in contact with the most modern technologies and best practices in the technology market, add my skills and competencies and bring value to any team I may be part of. My specialities include Software and Web Development, Artificial Intelligence and Blockchain/Web3.
 
 If you are interested, check my curriculum vitae in the [link](https://docs.google.com/document/d/1k-huyj7Ao5NEy0reBUe9AI8PXiiT-w4Z5NsdiJkEIrg).
 
@@ -97,7 +97,7 @@ Period: `May 2024` - `Present` \
 Industry: `Software Development`
 <br/>
 
-Contract work with Fone.Ninja, intermediation and agency of services company based in Brazil, where worked with technologies such as Git, HTML, CSS, Vue.js, Javascript, Typescript, PrimeFlex, PrimeVue, PHP, Laravel, Pest, Docker, MySQL, MinIO e AWS S3. Development of graphical interfaces, integration with APIs and development of APIs REST.
+I was employed by Fone Ninja, a technology company based in Brazil that specialises in solutions for businesses in the telecommunications sector. My work involved using technologies such as JavaScript, TypeScript, Node.js, Vue.js, PHP, Laravel, MySQL, Docker, AWS, and various third-party services for invoicing, digital signatures, and more. I was responsible for enhancing, implementing new features, and maintaining the payment and membership systems, as well as making improvements and bug fixes across the entire ERP system. Additionally, I was assigned to oversee the Technical Support module, where I carried out numerous end-to-end improvements and added new functionalities, including Service Orders, Electronic Checklists, financial integrations, digital signatures, and other relevant features, all with a focus on usability and user experience.
 
 [<img align="left" height="94px" width="94px" alt="DefSafe" style="margin-right:1rem;" src="./.github/defsafe.jpeg"/>](https://defsafe.com)
 
@@ -107,7 +107,7 @@ Period: `Mar 2024` - `May 2024` \
 Industry: `Computing and Network Services`
 <br/>
 
-Contract work with DefSafe, cybersecurity and AI company based in the United States of America, where worked with technologies such as Git, HTML, CSS, NuxtJS, Typescript, TailwindCSS, Nitro, Supabase, Prisma, PostgreSQL and AWS Cognito and Lambda. Development of graphical interfaces, integration with APIs, identity federation, development of APIs REST using Nitro and Typescript using AWS and Supabase environments.
+I was employed by DefSafe, a US-based company specialising in cybersecurity and artificial intelligence solutions. During my time there, I worked with cutting-edge technologies such as NuxtJS, TypeScript, Nitro, Supabase, Prisma, PostgreSQL, AWS Cognito, AWS Lambda, AWS CloudWatch, and AWS Amplify. I was responsible for implementing UI improvements and bug fixes, as well as integrating with APIs. Additionally, I was tasked with implementing social login functionality based on AWS Cognito identity federation. This involved integrating with OAuth 2.0 mechanisms such as LinkedIn, and email services like Google and Microsoft Outlook. I was also responsible for implementing SAML/SSO integration using AWS Cognito.
 
 [<img align="left" height="94px" width="94px" alt="Dacxi Chain" style="margin-right:1rem;" src="./.github/dacxi-chain.jpeg"/>](https://dacxichain.com)
 
@@ -117,7 +117,7 @@ Period: `Feb 2023` - `Apr 2024` \
 Industry: `Financial Services`
 <br/>
 
-Contract work with Dacxi Chain, global crowdfunding enterprise based in Australia, where worked with technologies such as Git, HTML, CSS, Vue.js version 3, Javascript, Typescript TailwindCSS, Vite, Playwright, Vitest, Laravel using the Sail starter kit, Laravel Nova, Laravel Vapour, AWS, Docker, Docker Compose, OpenAPI, MySQL and Redis. Development of graphical interfaces, integration with APIs, unit, integration and E2E tests using Vitest and Playwright. Development of REST API using the MVC pattern, Laravel Nova, AWS Amplify and Laravel Vapour, unit and functionality testing with Pest.
+I was employed by Dacxi Chain, a global crowdfunding company founded and based in Australia. During my time there, I worked with technologies such as TypeScript, TailwindCSS, Vite, Playwright, Vitest, Laravel, PHP, Laravel Nova, Laravel Vapor, AWS, Docker, OpenAPI, MySQL, Redis, and AWS Amplify. I was responsible for developing user interfaces, integrating and maintaining APIs, and conducting integration, unit, and end-to-end (E2E) testing using Vitest, Playwright, and Pest.
 
 [<img align="left" height="94px" width="94px" alt="Wealth99" style="margin-right:1rem;" src="./.github/wealth99.jpeg"/>](https://wealth99.com)
 
@@ -127,7 +127,7 @@ Period: `Apr 2022` - `Apr 2024` \
 Industry: `Financial Services`
 <br/>
 
-Contract work with Weath99, global cryptocurrency exchange based in Australia, where worked with technologies such as Vue.js version 2, HTML, CSS, Javascript, Typescript, TailwindCSS, Webpack, Playwright, Vue Test Utils, Laravel version 5, Laravel Nova, AWS, Docker, Docker Compose, Blockchain, OpenAPI, MySQL, MongoDB and Redis. Development of graphical interfaces, integration with APIs, unit, integration and E2E tests using Vue Test Utils and Playwright. Development of REST API using the MVC pattern, Laravel Nova, unit and functionality tests with PHPUnit.
+I was employed by Wealth99, a global exchange founded in Australia. At this company, I worked with technologies such as JavaScript, TypeScript, Vue.js, Node.js, Webpack, Vite, PHP, Laravel, Laravel Nova, Docker, OpenAPI, MySQL, MongoDB, and Redis. I also gained experience with blockchain node services like Ethereum Geth and had brief exposure to smart contracts in Solidity. Initially, I was responsible for developing, maintaining, and fixing bugs on the frontend, as well as implementing new features such as dashboards, financial charts, and improvements to the financial transaction history. After gaining experience, I joined the backend team, where I primarily focused on implementing new features such as Mixpanel integrations, fixing specific issues, enhancing the API, improving performance, and creating tests using PHPUnit.
 
 [<img align="left" height="94px" width="94px" alt="Athen Labs" style="margin-right:1rem;" src="./.github/athenlabs.jpeg"/>](https://athenlabs.io)
 
