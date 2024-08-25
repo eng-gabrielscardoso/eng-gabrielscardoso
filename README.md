@@ -211,4 +211,4 @@ Period: `Feb 2020` - `Dec 2020`
 
 ### Stu(dying) and interests
 
-![Stu(dying) and interests](https://go-skill-icons.vercel.app/api/icons?i=aws,azure,chatgpt,codeigniter,elixir,gcp,gemini,go,js,php,spring,solidity,solidjs,svelte,zig)
+![Stu(dying) and interests](https://go-skill-icons.vercel.app/api/icons?i=aws,azure,chatgpt,codeigniter,elixir,gcp,gemini,go,js,php,rust,spring,solidity,svelte,zig)
