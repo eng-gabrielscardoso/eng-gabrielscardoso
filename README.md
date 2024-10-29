@@ -53,17 +53,6 @@
         title="Discord"
       >
     </a>
-    <a
-      href="https://www.instagram.com/eng.gabrielscardoso"
-      target="_blank"
-      style="text-decoration:none;underline:none;"
-    >
-      <img
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        alt="Instagram"
-        title="Instagram"
-      >
-    </a>
   </p>
 
   <div align="center" style="display:flex;gap:0.4rem;flex-wrap:wrap;justify-content:center;align-items:center">
