@@ -10,6 +10,17 @@
       >
     </a>
     <a
+      href="https://docs.google.com/document/d/1k-huyj7Ao5NEy0reBUe9AI8PXiiT-w4Z5NsdiJkEIrg"
+      target="_blank"
+      style="text-decoration:none;underline:none;"
+    >
+      <img
+        src="https://img.shields.io/badge/Curriculum%20Vitae-Click%20here-2684fc?style=for-the-badge&link=https://docs.google.com/document/d/1k-huyj7Ao5NEy0reBUe9AI8PXiiT-w4Z5NsdiJkEIrg"
+        alt="Curriculum vitae"
+        title="Curriculum vitae
+      />
+    </a>
+    <a
       href="https://github.com/eng-gabrielscardoso"
       target="_blank"
       style="text-decoration:none;underline:none;"
