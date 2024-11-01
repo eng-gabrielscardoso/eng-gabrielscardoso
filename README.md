@@ -75,58 +75,52 @@ Innovate tech professional with 4+ years of experience working as a Full Stack D
 
 ## Experiences
 
-[<img align="left" height="112px" width="112px" alt="Fone.Ninja" style="margin-right:1rem;" src="./.github/fone-ninja.jpeg">](https://fone.ninja)
+[<img align="left" height="94px" width="94px" alt="Fone.Ninja" style="margin-right:1rem;" src="./.github/fone-ninja.jpeg">](https://fone.ninja)
 
 **Full Stack Developer** \
 [**Fone.Ninja**](https://fone.ninja) • Contract • Remote \
 **Period**: `May 2024` - `Present` \
 **Industry**: `Software Development` \
-**Stack**: Typescript, Node.js, Vue.js, PrimeVue, Tailwind, Docker, Laravel, AWS
 <br/>
 
-[<img align="left" height="112px" width="112px" alt="DefSafe" style="margin-right:1rem;" src="./.github/defsafe.jpeg"/>](https://defsafe.com)
+[<img align="left" height="94px" width="94px" alt="DefSafe" style="margin-right:1rem;" src="./.github/defsafe.jpeg"/>](https://defsafe.com)
 
 **Full Stack Developer** \
 [**DefSafe**](https://defsafe.com) • Contract • Remote \
 **Period**: `Mar 2024` - `May 2024` \
 **Industry**: `Computing and Network Services` \
-**Stack**: Typescript, Nuxt.js, Tailwind, Supabase, AWS, Azure, GCP, OpenAI
 <br/>
 
-[<img align="left" height="112px" width="112px" alt="Dacxi Chain" style="margin-right:1rem;" src="./.github/dacxi-chain.jpeg"/>](https://dacxichain.com)
+[<img align="left" height="94px" width="94px" alt="Dacxi Chain" style="margin-right:1rem;" src="./.github/dacxi-chain.jpeg"/>](https://dacxichain.com)
 
 **Full Stack Developer** \
 [**Dacxi Chain**](https://dacxichain.com) • Contract • Remote \
 **Period**: `Feb 2023` - `Apr 2024` \
 **Industry**: `Financial Services` \
-**Stack**: Typescript, Vite, Tailwind, Vue.js, Laravel, Docker, AWS
 <br/>
 
-[<img align="left" height="112px" width="112px" alt="Wealth99" style="margin-right:1rem;" src="./.github/wealth99.jpeg"/>](https://wealth99.com)
+[<img align="left" height="94px" width="94px" alt="Wealth99" style="margin-right:1rem;" src="./.github/wealth99.jpeg"/>](https://wealth99.com)
 
 **Full Stack Developer** \
 [**Wealth99**](https://wealth99.com) • Contract • Remote \
 **Period**: `Apr 2022` - `Apr 2024` \
 **Industry**: `Financial Services` \
-**Stack**: Typescript, Node.js, Vite, Tailwind, Vue.js, Laravel, Docker, AWS
 <br/>
 
-[<img align="left" height="112px" width="112px" alt="Athen Labs" style="margin-right:1rem;" src="./.github/athenlabs.jpeg"/>](https://athenlabs.io)
+[<img align="left" height="94px" width="94px" alt="Athen Labs" style="margin-right:1rem;" src="./.github/athenlabs.jpeg"/>](https://athenlabs.io)
 
 **Full Stack Developer** \
 [**Athen Labs**](https://athenlabs.io) • Freelance • Remote \
 **Period**: `Jun 2023` - `Jul 2023` \
 **Industry**: `IT services and consulting` \
-**Stack**: Typescript, Node.js, Next.js, Nuxt.js, Vercel, Tailwind
 <br/>
 
-[<img align="left" height="112px" width="112px" alt="UFPA" style="margin-right:1rem;" src="./.github/ufpa.jpeg"/>](https://ufpa.br)
+[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/ufpa.jpeg"/>](https://ufpa.br)
 
 **Software Developer** \
 [**UFPA**](https://ufpa.br) • Internship • On-site \
 **Period**: `Sep 2021` - `Apr 2022` \
 **Industry**: `Higher Education` \
-**Stack**: Javascript, Bootstrap, Node.js, Angular, Vue.js, Python, Java
 <br/>
 
 ## Education
