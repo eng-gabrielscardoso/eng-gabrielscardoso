@@ -167,4 +167,4 @@ Innovate tech professional with 4+ years of experience working as a Full Stack D
 
 ## Main technologies
 
-![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=ts,php,py,java,go,rust,solidity,nodejs,vue,nextjs,nestjs,vite,laravel,symfony,spring,mysql,mongodb,postgresql,redis,prisma,hibernate,supabase,docker,rabbitmq,kafka,aws,gcp,github,vscode,linux)
+![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=ts,php,py,java,go,rust,solidity,nodejs,vue,nextjs,astro,nestjs,vite,laravel,symfony,spring,mysql,mongodb,postgresql,redis,prisma,supabase,docker,rabbitmq,kafka,aws,gcp,github,vscode,linux)
