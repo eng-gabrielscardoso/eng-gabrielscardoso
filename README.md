@@ -57,12 +57,12 @@
 
   <div align="center" style="display:flex;gap:0.4rem;flex-wrap:wrap;justify-content:center;align-items:center">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-gabrielscardoso&layout=compact&langs_count=8&theme=dracula"
+      src="https://github-readme-stats-enggabrielscardosos-projects.vercel.app/api/top-langs/?username=eng-gabrielscardoso&layout=compact&langs_count=8&theme=dracula&hide=html,css,blade"
       height="180em"
       title="Gabriel Langs"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=eng-gabrielscardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats-enggabrielscardosos-projects.vercel.app/api?username=eng-gabrielscardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
       height="180em"
       title="Gabriel Stats"
     />
