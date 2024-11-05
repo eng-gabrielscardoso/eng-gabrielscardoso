@@ -15,7 +15,7 @@
       style="text-decoration:none;underline:none;"
     >
       <img
-        src="https://img.shields.io/badge/Curriculum%20Vitae-Click%20here-2684fc?style=for-the-badge&link=https://docs.google.com/document/d/1k-huyj7Ao5NEy0reBUe9AI8PXiiT-w4Z5NsdiJkEIrg"
+        src="https://img.shields.io/badge/Resume-Click%20here-2684fc?style=for-the-badge&link=https://docs.google.com/document/d/1k-huyj7Ao5NEy0reBUe9AI8PXiiT-w4Z5NsdiJkEIrg"
         alt="Curriculum vitae"
         title="Curriculum vitae
       />
@@ -71,7 +71,7 @@
 
 ## About me
 
-Innovate tech professional with 4+ years of experience working as a Full Stack Developer, where delivered successful projects across the world with multicultural teams and distinctive and modern technologies such as JavaScript, TypeScript, NodeJS, VueJS, PHP, Laravel and AWS. Capable of working with various technologies and software solutions in the most diverse segments and teams. My specialities and interests include Software and Web Development, Programming Languages, Artificial Intelligence and Blockchain Development & Web3.0. If you are interested, check my curriculum vitae in the [link](https://docs.google.com/document/d/1k-huyj7Ao5NEy0reBUe9AI8PXiiT-w4Z5NsdiJkEIrg).
+Innovate tech professional with 4+ years of experience working as a Full Stack Developer, where delivered successful projects across the world with multicultural teams and distinctive and modern technologies such as JavaScript, TypeScript, NodeJS, VueJS, PHP, Laravel and AWS. Capable of working with various technologies and software solutions in the most diverse segments and teams. My specialities and interests include Software and Web Development, Programming Languages, Artificial Intelligence and Blockchain Development & Web 3.0. If you are interested, check my curriculum vitae in the [link](https://docs.google.com/document/d/1k-huyj7Ao5NEy0reBUe9AI8PXiiT-w4Z5NsdiJkEIrg).
 
 ## Experiences
 
