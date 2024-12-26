@@ -107,14 +107,6 @@ Innovate tech professional with 4+ years of experience working as a Full Stack D
 **Industry**: `Financial Services` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Athen Labs" style="margin-right:1rem;" src="./.github/athenlabs.jpeg"/>](https://athenlabs.io)
-
-**Full Stack Developer** \
-[**Athen Labs**](https://athenlabs.io) • Freelance • Remote \
-**Period**: `Jun 2023` - `Jul 2023` \
-**Industry**: `IT services and consulting` \
-<br/>
-
 [<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/ufpa.jpeg"/>](https://ufpa.br)
 
 **Software Developer** \
