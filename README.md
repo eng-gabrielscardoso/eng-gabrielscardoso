@@ -159,4 +159,4 @@ Full Stack Developer with four years of experience, and ongoing, in delivering s
 
 ## Main technologies
 
-![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=ts,php,py,java,go,rust,solidity,nodejs,vue,nextjs,astro,nestjs,vite,laravel,symfony,spring,mysql,mongodb,postgresql,redis,prisma,supabase,docker,rabbitmq,kafka,aws,gcp,github,vscode,linux)
+![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=ts,php,py,java,go,rust,solidity,nodejs,vue,nextjs,astro,nestjs,vite,laravel,symfony,spring,truffle,hardhat,mysql,mongodb,postgresql,redis,prisma,supabase,docker,rabbitmq,kafka,aws,gcp,linux)
