@@ -21,17 +21,6 @@
       />
     </a>
     <a
-      href="https://github.com/eng-gabrielscardoso"
-      target="_blank"
-      style="text-decoration:none;underline:none;"
-    >
-      <img
-        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-        alt="Github"
-        title="Github"
-      >
-    </a>
-    <a
       href="https://www.linkedin.com/in/eng-gabrielscardoso/"
       target="_blank"
       style="text-decoration:none;underline:none;"
@@ -71,7 +60,7 @@
 
 ## About me
 
-Full Stack Developer with four years of experience, and ongoing, in delivering scalable, high-performing applications across telecommunications, cybersecurity, and blockchain industries. Proficient in modern web technologies, cloud platforms, and CI/CD workflows. Passionate about developing innovative solutions in Artificial Intelligence and Web 3.0. If you are interested, check my curriculum vitae in the [link](https://docs.google.com/document/d/1k-huyj7Ao5NEy0reBUe9AI8PXiiT-w4Z5NsdiJkEIrg).
+Full Stack Developer with four years of experience, and ongoing, in delivering scalable, high-performing applications across telecommunications, cybersecurity, and blockchain industries. Proficient in modern web technologies, cloud platforms, and CI/CD workflows. Passionate about developing innovative solutions in Artificial Intelligence and Web 3.0.
 
 ## Experiences
 
@@ -147,14 +136,6 @@ Full Stack Developer with four years of experience, and ongoing, in delivering s
 [**UNIP**](https://unip.com) • Belém, PA, Brazil \
 **Degree**: `Bachelor of Technology` \
 **Period**: `Aug 2019` - `Jul 2021`
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/uepa.jpeg"/>](https://www.uepa.br)
-
-**Environmental and Sanitary Engineering** \
-[**UEPA**](https://www.uepa.br/) • Belém, PA, Brazil \
-**Degree**: `Bachelor's Degree` \
-**Period**: `Feb 2020` - `Dec 2020`
 <br/>
 
 ## Main technologies
