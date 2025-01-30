@@ -17,7 +17,7 @@
       <img
         src="https://img.shields.io/badge/Resume-Click%20here-2684fc?style=for-the-badge&link=https://docs.google.com/document/d/1k-huyj7Ao5NEy0reBUe9AI8PXiiT-w4Z5NsdiJkEIrg"
         alt="Curriculum vitae"
-        title="Curriculum vitae
+        title="Curriculum vitae"
       />
     </a>
     <a
@@ -62,47 +62,46 @@
 
 Full Stack Developer with four years of experience, and ongoing, in delivering scalable, high-performing applications across telecommunications, cybersecurity, and blockchain industries. Proficient in modern web technologies, cloud platforms, and CI/CD workflows. Passionate about developing innovative solutions in Artificial Intelligence and Web 3.0.
 
+## Main technologies
+
+![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=html,htmx,js,ts,nodejs,express,nestjs,vuejs,nuxtjs,react,nextjs,jquery,css,less,sass,tailwind,bootstrap,daisyui,primevue,materialui,bulma,python,flask,php,laravel,java,spring,go,gin,fiber,rust,solidity,cairo,vyper,truffle,hardhat,chainlink,alchemy,infura,openzeppelin,sqlite,mysql,mariadb,postgresql,mongodb,redis,prisma,firebase,supabase,rabbitmq,kafka,docker,kubernetes,terraform,ansible,aws,gcp,github,githubactions,linux)
+
 ## Experiences
 
-[<img align="left" height="94px" width="94px" alt="Fone.Ninja" style="margin-right:1rem;" src="./.github/fone-ninja.jpeg">](https://fone.ninja)
+[<img align="left" height="94px" width="94px" alt="Fone Ninja" style="margin-right:1rem;" src="./.github/fone-ninja.jpeg">](https://fone.ninja)
 
 **Full Stack Developer** \
-[**Fone.Ninja**](https://fone.ninja) • Contract • Remote \
+[**Fone Ninja**](https://fone.ninja) • Contract • Remote \
 **Period**: `May 2024` - `Present` \
-**Industry**: `Software Development` \
-<br/>
+**Industry**: `Software Development`
 
 [<img align="left" height="94px" width="94px" alt="DefSafe" style="margin-right:1rem;" src="./.github/defsafe.jpeg"/>](https://defsafe.com)
 
 **Full Stack Developer** \
 [**DefSafe**](https://defsafe.com) • Contract • Remote \
 **Period**: `Mar 2024` - `May 2024` \
-**Industry**: `Computing and Network Services` \
-<br/>
+**Industry**: `Computing and Network`
 
 [<img align="left" height="94px" width="94px" alt="Dacxi Chain" style="margin-right:1rem;" src="./.github/dacxi-chain.jpeg"/>](https://dacxichain.com)
 
 **Full Stack Developer** \
 [**Dacxi Chain**](https://dacxichain.com) • Contract • Remote \
 **Period**: `Feb 2023` - `Apr 2024` \
-**Industry**: `Financial Services` \
-<br/>
+**Industry**: `Financial Services`
 
 [<img align="left" height="94px" width="94px" alt="Wealth99" style="margin-right:1rem;" src="./.github/wealth99.jpeg"/>](https://wealth99.com)
 
 **Full Stack Developer** \
 [**Wealth99**](https://wealth99.com) • Contract • Remote \
 **Period**: `Apr 2022` - `Apr 2024` \
-**Industry**: `Financial Services` \
-<br/>
+**Industry**: `Financial Services`
 
 [<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/ufpa.jpeg"/>](https://ufpa.br)
 
 **Software Developer** \
 [**UFPA**](https://ufpa.br) • Internship • On-site \
 **Period**: `Sep 2021` - `Apr 2022` \
-**Industry**: `Higher Education` \
-<br/>
+**Industry**: `Higher Education`
 
 ## Education
 
@@ -112,23 +111,20 @@ Full Stack Developer with four years of experience, and ongoing, in delivering s
 [**UFPA**](https://ufpa.br) • Belém, PA, Brazil \
 **Degree**: `Bachelor Degree` \
 **Period**: `Jun 2021` - `Present`
-<br/>
 
 [<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/anhanguera.jpeg"/>](https://anhanguera.com)
 
 **Software Architecture** \
 [**Anhanguera**](https://anhanguera.com) • Remote \
-**Degree**: `Specialisation (Lato Sensu)` \
+**Degree**: `Specialisation` \
 **Period**: `Jun 2021` - `Present`
-<br/>
 
 [<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/unifecaf.jpeg"/>](https://unifecaf.com.br)
 
 **Software Engineering** \
 [**UniFECAF**](https://unifecaf.com.br) • Remote \
-**Degree**: `Specialisation (Lato Sensu)` \
+**Degree**: `Specialisation` \
 **Period**: `Sep 2021` - `Apr 2022`
-<br/>
 
 [<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/unip.jpeg"/>](https://unip.com)
 
@@ -136,8 +132,3 @@ Full Stack Developer with four years of experience, and ongoing, in delivering s
 [**UNIP**](https://unip.com) • Belém, PA, Brazil \
 **Degree**: `Bachelor of Technology` \
 **Period**: `Aug 2019` - `Jul 2021`
-<br/>
-
-## Main technologies
-
-![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=ts,php,py,java,go,rust,solidity,nodejs,vue,nextjs,astro,nestjs,vite,laravel,symfony,spring,truffle,hardhat,mysql,mongodb,postgresql,redis,prisma,supabase,docker,rabbitmq,kafka,aws,gcp,linux)
