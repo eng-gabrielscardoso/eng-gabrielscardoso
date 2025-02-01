@@ -64,7 +64,7 @@ Full Stack Developer with four years of experience, and ongoing, in delivering s
 
 ## Main technologies
 
-![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=html,htmx,js,ts,nodejs,express,nestjs,vuejs,nuxtjs,react,nextjs,jquery,css,less,sass,tailwind,bootstrap,daisyui,primevue,materialui,bulma,python,flask,php,laravel,java,spring,go,gin,fiber,rust,solidity,cairo,vyper,truffle,hardhat,chainlink,alchemy,infura,openzeppelin,sqlite,mysql,mariadb,postgresql,mongodb,redis,prisma,firebase,supabase,rabbitmq,kafka,docker,kubernetes,terraform,ansible,aws,gcp,github,githubactions,linux)
+![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=html,htmx,js,ts,nodejs,express,nestjs,vuejs,nuxtjs,react,nextjs,css,less,sass,tailwind,bootstrap,daisyui,primevue,materialui,bulma,python,flask,php,laravel,java,spring,go,gin,fiber,graphql,grpc,rust,solidity,vyper,truffle,hardhat,chainlink,alchemy,infura,openzeppelin,sqlite,mysql,mariadb,postgresql,mongodb,redis,prisma,firebase,supabase,rabbitmq,kafka,docker,kubernetes,terraform,ansible,aws,gcp,github,githubactions,linux)
 
 ## Experiences
 
