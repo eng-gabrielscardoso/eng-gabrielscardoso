@@ -60,7 +60,13 @@
 
 ## About me
 
-Full Stack Developer with four years of experience, and ongoing, in delivering scalable, high-performing applications across telecommunications, cybersecurity, and blockchain industries. Proficient in modern web technologies, cloud platforms, and CI/CD workflows. Passionate about developing innovative solutions in Artificial Intelligence and Web 3.0.
+Full Stack Developer with four years of experience, and ongoing, in delivering scalable, high-performing applications across various industries. Proficient in modern web technologies, cloud platforms, and CI/CD workflows. Passionate about developing innovative solutions with client focus and reliability.
+
+Throughout my career, I have contributed to projects across ERP systems, telecommunications, cybersecurity, artificial intelligence, cryptocurrency exchange, crowdfunding platforms, and quantities of volunteer jobs. This broad exposure has sharpened my ability to adapt quickly to new technologies and business challenges, always maintaining a focus on code quality, performance, and user experience.
+
+Beyond technical expertise, I pride myself on being a proactive problem solver with a strong team-first mentality. I thrive in collaborative environments where innovation and efficiency drive success. I am immediately available and eager to contribute to any team's goals.
+
+I would welcome everyone to discuss, chat, or talk about technologies.
 
 ## Main technologies
 
