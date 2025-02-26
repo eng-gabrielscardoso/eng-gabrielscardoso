@@ -68,9 +68,13 @@ Beyond technical expertise, I pride myself on being a proactive problem solver w
 
 I would welcome everyone to discuss, chat, or talk about technologies.
 
-## Main technologies
+## Main technologies (what I ever use and have experience)
 
-![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=html,htmx,js,ts,nodejs,express,nestjs,vuejs,nuxtjs,react,nextjs,css,less,sass,tailwind,bootstrap,daisyui,primevue,materialui,bulma,python,flask,php,laravel,java,spring,go,gin,fiber,graphql,grpc,rust,solidity,vyper,truffle,hardhat,chainlink,alchemy,infura,openzeppelin,sqlite,mysql,mariadb,postgresql,mongodb,redis,prisma,firebase,supabase,rabbitmq,kafka,docker,kubernetes,terraform,ansible,aws,gcp,github,githubactions,linux)
+![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,nodejs,express,vuejs,nuxtjs,css,less,sass,tailwind,bootstrap,daisyui,primevue,bulma,python,flask,php,laravel,java,go,gin,fiber,rust,solidity,hardhat,chainlink,alchemy,openzeppelin,sqlite,mysql,mariadb,postgresql,mongodb,redis,prisma,firebase,supabase,aws,gcp,github,vercel,netlify,githubactions,linux)
+
+## Interests and studies (what I'd like to use in future or get deep into)
+
+![Interests and studies](https://go-skill-icons.vercel.app/api/icons?i=htmx,rxjs,nestjs,angular,react,nextjs,materialui,django,spring,graphql,grpc,rocket,vyper,truffle,infura,cassandra,rabbitmq,kafka,kubernetes,terraform,ansible,azure,jenkins,prometheus,dart,flutter,reactnative,capacitor,heroku,flyio)
 
 ## Experiences
 
