@@ -70,75 +70,16 @@ I would welcome everyone to discuss, chat, or talk about technologies.
 
 ## Main technologies (what I ever use and have experience)
 
+<div align="center">
+
 ![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,nodejs,express,vuejs,nuxtjs,css,less,sass,tailwind,bootstrap,daisyui,primevue,bulma,python,flask,php,laravel,java,go,gin,fiber,rust,solidity,hardhat,chainlink,alchemy,openzeppelin,sqlite,mysql,mariadb,postgresql,mongodb,redis,prisma,firebase,supabase,aws,gcp,github,vercel,netlify,githubactions,linux)
+
+</div>
 
 ## Interests and studies (what I'd like to use in future or get deep into)
 
+<div align="center">
+  
 ![Interests and studies](https://go-skill-icons.vercel.app/api/icons?i=htmx,rxjs,nestjs,angular,react,nextjs,materialui,django,spring,graphql,grpc,rocket,vyper,truffle,infura,cassandra,rabbitmq,kafka,kubernetes,terraform,ansible,azure,jenkins,prometheus,dart,flutter,reactnative,capacitor,heroku,flyio)
 
-## Experiences
-
-[<img align="left" height="94px" width="94px" alt="Fone Ninja" style="margin-right:1rem;" src="./.github/fone-ninja.jpeg">](https://fone.ninja)
-
-**Full Stack Developer** \
-[**Fone Ninja**](https://fone.ninja) • Contract • Remote \
-**Period**: `May 2024` - `Present` \
-**Industry**: `Software Development`
-
-[<img align="left" height="94px" width="94px" alt="DefSafe" style="margin-right:1rem;" src="./.github/defsafe.jpeg"/>](https://defsafe.com)
-
-**Full Stack Developer** \
-[**DefSafe**](https://defsafe.com) • Contract • Remote \
-**Period**: `Mar 2024` - `May 2024` \
-**Industry**: `Computing and Network`
-
-[<img align="left" height="94px" width="94px" alt="Dacxi Chain" style="margin-right:1rem;" src="./.github/dacxi-chain.jpeg"/>](https://dacxichain.com)
-
-**Full Stack Developer** \
-[**Dacxi Chain**](https://dacxichain.com) • Contract • Remote \
-**Period**: `Feb 2023` - `Apr 2024` \
-**Industry**: `Financial Services`
-
-[<img align="left" height="94px" width="94px" alt="Wealth99" style="margin-right:1rem;" src="./.github/wealth99.jpeg"/>](https://wealth99.com)
-
-**Full Stack Developer** \
-[**Wealth99**](https://wealth99.com) • Contract • Remote \
-**Period**: `Apr 2022` - `Apr 2024` \
-**Industry**: `Financial Services`
-
-[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/ufpa.jpeg"/>](https://ufpa.br)
-
-**Software Developer** \
-[**UFPA**](https://ufpa.br) • Internship • On-site \
-**Period**: `Sep 2021` - `Apr 2022` \
-**Industry**: `Higher Education`
-
-## Education
-
-[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/ufpa.jpeg"/>](https://ufpa.br)
-
-**Information Systems** \
-[**UFPA**](https://ufpa.br) • Belém, PA, Brazil \
-**Degree**: `Bachelor Degree` \
-**Period**: `Jun 2021` - `Present`
-
-[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/anhanguera.jpeg"/>](https://anhanguera.com)
-
-**Software Architecture** \
-[**Anhanguera**](https://anhanguera.com) • Remote \
-**Degree**: `Specialisation` \
-**Period**: `Jun 2021` - `Present`
-
-[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/unifecaf.jpeg"/>](https://unifecaf.com.br)
-
-**Software Engineering** \
-[**UniFECAF**](https://unifecaf.com.br) • Remote \
-**Degree**: `Specialisation` \
-**Period**: `Sep 2021` - `Apr 2022`
-
-[<img align="left" height="94px" width="94px" alt="UFPA" style="margin-right:1rem;" src="./.github/unip.jpeg"/>](https://unip.com)
-
-**Logistics Management** \
-[**UNIP**](https://unip.com) • Belém, PA, Brazil \
-**Degree**: `Bachelor of Technology` \
-**Period**: `Aug 2019` - `Jul 2021`
+</div>
