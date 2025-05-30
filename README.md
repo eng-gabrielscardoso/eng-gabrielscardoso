@@ -27,7 +27,7 @@
     >
       <img
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="Linkedin"
+        alt="LinkedIn"
         title="LinkedIn"
       >
     </a>
@@ -60,19 +60,17 @@
 
 ## About me
 
-Full Stack Developer with four years of experience, and ongoing, in delivering scalable, high-performing applications across various industries. Proficient in modern web technologies, cloud platforms, and CI/CD workflows. Passionate about developing innovative solutions with client focus and reliability.
+I am a Full Stack Developer with over four years of experience, and ongoing, delivering robust digital solutions for companies across the globe. My work spans industries such as telecommunications, cybersecurity, blockchain, and artificial intelligence, equipping me with a strong foundation to solve complex challenges and adapt quickly to new technologies.
 
-Throughout my career, I have contributed to projects across ERP systems, telecommunications, cybersecurity, artificial intelligence, cryptocurrency exchange, crowdfunding platforms, and quantities of volunteer jobs. This broad exposure has sharpened my ability to adapt quickly to new technologies and business challenges, always maintaining a focus on code quality, performance, and user experience.
+Skilled in both backend and frontend development, I build scalable applications using modern languages and frameworks. I have hands-on experience with cloud platforms like AWS, GCP, and Azure, as well as containerisation tools including Docker and Kubernetes. My background also includes database management (MySQL, PostgreSQL, MongoDB, Redis) and blockchain development with Solidity and smart contracts.
 
-Beyond technical expertise, I pride myself on being a proactive problem solver with a strong team-first mentality. I thrive in collaborative environments where innovation and efficiency drive success. I am immediately available and eager to contribute to any team's goals.
+In addition to my technical expertise, I’m a strong communicator and problem solver who thrives in collaborative, agile environments. I'm well-versed in Scrum, Kanban, and eXtreme Programming, and comfortable working with distributed and multicultural teams. I’m particularly interested in AI and Web 3.0, and always eager to contribute to innovative, high-impact projects.
 
-I would welcome everyone to discuss, chat, or talk about technologies.
-
-## Main technologies (what I ever use and have experience)
+## Main technologies (what I have ever used and have experience with)
 
 <div align="center">
 
-![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,nodejs,express,vuejs,nuxtjs,css,less,sass,tailwind,bootstrap,daisyui,primevue,bulma,python,flask,php,laravel,java,go,gin,fiber,rust,solidity,hardhat,chainlink,alchemy,openzeppelin,sqlite,mysql,mariadb,postgresql,mongodb,redis,prisma,firebase,supabase,aws,gcp,github,vercel,netlify,githubactions,linux)
+![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,nestjs,vuejs,nuxtjs,css,tailwind,daisyui,primevue,python,flask,php,laravel,java,go,gin,fiber,rust,solidity,hardhat,sqlite,mysql,postgresql,mongodb,redis,prisma,firebase,supabase,aws,gcp)
 
 </div>
 
@@ -80,6 +78,6 @@ I would welcome everyone to discuss, chat, or talk about technologies.
 
 <div align="center">
   
-![Interests and studies](https://go-skill-icons.vercel.app/api/icons?i=htmx,rxjs,nestjs,angular,react,nextjs,materialui,django,spring,graphql,grpc,rocket,vyper,truffle,infura,cassandra,rabbitmq,kafka,kubernetes,terraform,ansible,azure,jenkins,prometheus,dart,flutter,reactnative,capacitor,heroku,flyio)
+![Interests and studies](https://go-skill-icons.vercel.app/api/icons?i=htmx,angular,react,nextjs,spring,symfony,codeigniter,yii,graphql,grpc,rocket,vyper,cassandra,rabbitmq,kafka,kubernetes,terraform,ansible,azure,jenkins,prometheus,grafana,dart,flutter,reactnative,capacitor,electron,wails,langchain,n8n)
 
 </div>
