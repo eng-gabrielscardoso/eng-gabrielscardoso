@@ -78,6 +78,6 @@ In addition to my technical expertise, I’m a strong communicator and problem s
 
 <div align="center">
   
-![Interests and studies](https://go-skill-icons.vercel.app/api/icons?i=htmx,angular,react,nextjs,spring,symfony,codeigniter,yii,graphql,grpc,rust,rocket,vyper,cassandra,rabbitmq,kafka,kubernetes,terraform,ansible,azure,jenkins,prometheus,grafana,dart,flutter,reactnative,capacitor,electron,wails,langchain)
+![Interests and studies](https://go-skill-icons.vercel.app/api/icons?i=htmx,angular,react,nextjs,spring,symfony,codeigniter,graphql,grpc,rust,rocket,vyper,cassandra,rabbitmq,kafka,kubernetes,vagrant,terraform,ansible,azure,jenkins,prometheus,grafana,dart,flutter,reactnative,capacitor,electron,wails,langchain)
 
 </div>
