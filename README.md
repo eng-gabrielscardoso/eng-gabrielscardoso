@@ -70,7 +70,7 @@ In addition to my technical expertise, I’m a strong communicator and problem s
 
 <div align="center">
 
-![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,nestjs,vuejs,nuxtjs,css,tailwind,daisyui,primevue,python,flask,php,laravel,java,go,gin,fiber,solidity,hardhat,foundry,sqlite,mysql,postgresql,mongodb,redis,prisma,firebase,supabase,aws,gcp)
+![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,nestjs,vuejs,nuxtjs,css,tailwind,daisyui,primevue,python,flask,php,laravel,symfony,java,spring,go,gin,fiber,solidity,hardhat,foundry,mysql,postgresql,mongodb,redis,prisma,supabase,aws,gcp)
 
 </div>
 
@@ -78,6 +78,6 @@ In addition to my technical expertise, I’m a strong communicator and problem s
 
 <div align="center">
   
-![Interests and studies](https://go-skill-icons.vercel.app/api/icons?i=htmx,angular,react,nextjs,spring,symfony,codeigniter,graphql,grpc,rust,rocket,vyper,cassandra,rabbitmq,kafka,kubernetes,vagrant,terraform,ansible,azure,jenkins,prometheus,grafana,dart,flutter,reactnative,capacitor,electron,wails,langchain)
+![Interests and studies](https://go-skill-icons.vercel.app/api/icons?i=codeigniter,graphql,grpc,rust,vyper,rabbitmq,kafka,kubernetes,vagrant,terraform,ansible,jenkins,prometheus,grafana,langchain)
 
 </div>
