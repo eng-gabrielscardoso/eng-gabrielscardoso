@@ -43,24 +43,11 @@
       >
     </a>
   </p>
-
-  <div align="center" style="display:flex;gap:0.4rem;flex-wrap:wrap;justify-content:center;align-items:center">
-    <img
-      src="https://github-readme-stats-enggabrielscardosos-projects.vercel.app/api/top-langs/?username=eng-gabrielscardoso&layout=compact&langs_count=8&theme=dracula&hide=html,css,blade"
-      height="180em"
-      title="Gabriel Langs"
-    />
-    <img
-      src="https://github-readme-stats-enggabrielscardosos-projects.vercel.app/api?username=eng-gabrielscardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-      height="180em"
-      title="Gabriel Stats"
-    />
-  </div>
 </div>
 
 ## About me
 
-I am a Full Stack Developer with over four years of experience, and ongoing, delivering robust digital solutions for companies across the globe. My work spans industries such as telecommunications, cybersecurity, blockchain, and artificial intelligence, equipping me with a strong foundation to solve complex challenges and adapt quickly to new technologies.
+I am a Software Engineer with over five years of experience, and ongoing, delivering robust digital solutions for companies across the globe. My work spans industries such as telecommunications, cybersecurity, blockchain, and artificial intelligence, equipping me with a strong foundation to solve complex challenges and adapt quickly to new technologies.
 
 Skilled in both backend and frontend development, I build scalable applications using modern languages and frameworks. I have hands-on experience with cloud platforms like AWS, GCP, and Azure, as well as containerisation tools including Docker and Kubernetes. My background also includes database management (MySQL, PostgreSQL, MongoDB, Redis) and blockchain development with Solidity and smart contracts.
 
