@@ -32,7 +32,7 @@
       >
     </a>
     <a
-      href="https://discord.com/channels/@eng.gabrielscardoso"
+      href="https://discord.com/channels/@antianthropic"
       target="_blank"
       style="text-decoration:none;underline:none;"
     >
